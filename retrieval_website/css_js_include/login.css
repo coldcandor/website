@@ -1,0 +1,94 @@
+#login {
+  margin: 0px auto;
+  width: 365px;
+  background-color: #ccdffb;
+  text-align: center;
+}
+
+#summary {
+  margin: 0px auto;
+  width: 365px;
+}
+
+#summary a:link {
+  font-size: 125%;
+  font-family: times, helvetica, sans-serif;
+}
+
+#summary a:visited {
+  font-size: 125%;
+  font-family: times, helvetica, sans-serif;
+}
+
+.sumHead {
+	color: #d0d0d0;
+  text-align: center;
+	background-color: #718ead;
+	padding: 3px 6px;
+	border-bottom: 1px solid #fff;
+	font-family: arial, verdana, helvetica, sans-serif;
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.loginTable {
+  width: 100%;
+}
+
+table.loginTable td {
+  padding: 2px;
+  background-color: transparent;
+}
+
+.noBorderTop {
+  border-top: 0px;
+}
+
+.noBorderBottom {
+  border-bottom: 0px;
+}
+
+.noBorderLeft {
+  border-left: 0px;
+}
+
+.noBorderRight {
+  border-right: 0px;
+}
+
+.inputBoxText {
+  width: 200px;
+  padding-left: 3px;
+  font: 8pt Arial, Helvetica, Sans-Serif;
+  border: 1px solid #888888;
+  background-color: #E8E8E8;
+}
+
+.selectList {
+  font: 8pt Arial, Helvetica, Sans-Serif;
+  border: 1px solid #888888;
+  background-color: #E8E8E8;
+}
+
+.standardButton {
+  background-color: #cdcdcd;
+  font-family: Arial, Helvetica, Sans-Serif;
+  font-size: 8pt;
+  
+  border-style: solid;
+  border-width: 1px; 
+  
+  border-top-color: #ffffff;
+  border-left-color: #ffffff;
+  border-right-color: #404040;
+  border-bottom-color: #404040;
+  
+  cursor: hand;
+}
+
+/* Local styles applying to the leftNavBar */
+.seperator
+{
+  border-bottom: 1px solid #fff;
+  height: 11px;
+}

@@ -1,0 +1,181 @@
+/* Class Styles */
+.pagetitle {
+  position: absolute;
+  top: 20px;
+  width: 708px;
+  text-align: right;
+  z-index: 10;
+}
+
+.ldiv {
+  display: inline;
+  margin: 5px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 19px;
+  padding-right: 19px;
+  background-color: #152270;
+  border: 2px solid #152270;
+}
+
+.ldiv:hover {
+  background-color: #4855A0;
+  border: 2px solid #152270;
+  cursor: pointer;
+}
+  
+.mainPic {
+  position: relative;
+  top: 10px;
+  border-top: 3px solid #000055;
+  border-bottom: 3px solid #000055;
+  
+}
+
+.links {
+  color: #CCCCFF;
+  font-family: palatino linotype;
+  font-weight: bold;
+  font-size: 80%;
+}
+
+.contact {
+  text-align: center;
+}
+
+/* Outer Container */
+div#container {
+  width: 750px;
+  padding-top: 25px;
+  background-color: #336699;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Inner Containers */
+div#title {
+  margin-left: 25px;
+  width: 700px;
+}
+
+div#links {
+  position: absolute;
+  top: 258px;
+  margin-left: 4px;
+  text-align: center;
+}
+
+div#dropDown {
+  position: absolute;
+  top: 20px;
+  left: 551px;
+  width: 106px;
+  background-color: #4855A0;
+  border: 2px solid #152270;
+  color: #CCCCFF;
+  font-family: palatino linotype;
+  font-weight: bold;
+  font-size: 80%;
+  line-height: 200%;
+  text-align: center;
+  z-index: 10;
+}
+
+#dropDown ul {
+  width: 70px;
+}
+
+#dropDown li {
+  border: 4px solid #4855A0;
+  list-style: none;
+  position: relative;
+  right: 23px;
+}  
+
+#dropDown li:hover {
+  background-color: #152270;
+  border: 4px solid #152270;
+  cursor: pointer;
+}
+
+div#content {
+  margin-top: 30px;
+  padding: 5px 14px;
+  color: #CCCCFF;
+  font-family: Comic Sans MS;
+}
+
+div#movInfo {
+  text-align: center;
+}
+
+div#footer {
+  text-align: center;
+  color: #000033;
+  font-size: 10pt;
+  font-family: palatino linotype;
+  padding: 0px 5px 10px 5px;
+}
+
+/* Hyperlink behavior definitions for movie links*/
+a.links:link {
+  text-decoration: none;
+  color: #CCCCFF;
+  font-family: palatino linotype;
+  font-weight: bold;
+  font-size: 80%;
+}
+
+a.links:visited {
+  text-decoration: none;
+  color: #CCCCFF;
+  font-family: palatino linotype;
+  font-weight: bold;  
+  font-size: 80%;
+}
+
+a.links:hover {
+  text-decoration: none;
+}
+
+/* Hyperlink behavior definitions for validator links*/
+a.vlink:link {
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+}
+
+a.vlink:visited {
+  text-decoration: none;
+  color: #000000;
+}
+
+a.vlink:hover {
+  text-decoration: none;
+  color: #550000;
+}
+
+/* Hyperlink behavior definitions for the contact link*/
+a.contact:link {
+  text-decoration: none;
+  color: #CCCCFF;
+  font-family: palatino linotype;
+  font-weight: bold;  
+  font-size: 80%;
+}
+
+a.contact:visited {
+  text-decoration: none;
+  color: #CCCCFF;
+  font-family: palatino linotype;
+  font-weight: bold;  
+  font-size: 80%;
+}
+
+a.contact:hover {
+  text-decoration: none;
+  color: #152270;
+  font-family: palatino linotype;
+  font-weight: bold;  
+  font-size: 80%;
+}

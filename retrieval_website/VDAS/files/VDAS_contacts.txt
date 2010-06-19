@@ -1,0 +1,43 @@
+// Lines beginning with "//" will be ignored.  In other words, these are
+//   comments.
+// Lines beginning with "---" will be used as headers in the table.  These lines
+//   cannot appear inside of an entry, i.e. between the two paragraphs of
+//   information about a contact.  No line breaks are allowed inside a title.
+//   In other words, a title must only be one line, but as many characters as
+//   desired.
+
+// Here's the format that will be used for this file.
+// 
+// The first line will consist of the contact's name, followed by Parenthized
+// (enclosed in parentheses) a very short description of the contact (optional),
+// such as a title or location, followed by " - ", followed by the phone number
+// (delimited with periods, i.e. 555.555.5555) and an optional extension (i.e.
+// 555.555.5555 ext 5555)
+//
+// NOTE:  If the syntax of the first line is used in any of the paragraphs,
+// the results are undefined!
+//
+// After the first line, extra paragraphs of information are allowed.  These
+// paragraphs can contain whatever you wish.  There must be a blank line between
+// them as well as following the final paragraph.
+//
+// White space (spaces, tabs, etc) at the start or end of each line will be
+// removed, but can be used in this file to help keep it readable.
+//
+// Entries will appear on the webpage in the order they are in this file.
+
+// The following is an example of the format to use.
+
+//--- Example ---
+//
+// Example Name (Title or similar info) - 555.555.5555
+//   This is a paragraph of additional information about the name above it, such
+//   as a mini-bio, description of the person's relation to VDAS, etc.
+//
+//   This is a second paragraph of additional information, such as additional
+//   phone numbers, email, etc.
+
+--- VDAS Author ---
+ John Doe (Author of Pulse VDAS) - 555.123.4567
+   John wrote the Visual Basic GUI that Pulse VDAS uses to run VDAS.  David is responsible for maintaining the Pulse-VDAS system and the VAX VDAS system.
+   

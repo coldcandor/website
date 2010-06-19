@@ -1,0 +1,11 @@
+/* VDAS.css - contains the presentation information for the "contents" sections of each page. */
+
+#recallContainer
+{
+  width: 650px;
+}
+
+#resultCount
+{
+  font-size: 120%;
+}

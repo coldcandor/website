@@ -1,0 +1,6 @@
+AuthUserFile /users/rit6/g2/ers3268/htpass/.htpasswd
+AuthGroupFile /dev/null
+AuthName ProtectedArea
+AuthType Basic
+
+require user user

@@ -1,0 +1,166 @@
+/*  leftNavLayout.css - defines the layout (element positioning) of the */
+/*	Inside Honeywell web page template.  Tested in MS IE 5.5, 6.0 and   */
+/*	Mozilla Firebird 1.03.  Change with caution (margins, padding,      */
+/* 	heights and positioning, as the impact to the layout may vary.      */
+
+#Content 
+{
+	margin:5px 5px 110px 160px;
+	padding:0;
+	font-size:8pt;
+	font-family:arial, verdana, helvetica, sans-serif;
+}
+
+#Header
+{
+	margin:0;
+	padding:4px 0px 0px 0px;
+	background-color:#718ead;
+}
+
+#Menu
+{
+	position:absolute;
+	top:117px;
+	left:0;
+	width:148px;
+	padding:0;
+	background-color:#718ead;
+	border:none;
+}
+/* "be nice to Opera 5". */
+body>#Menu {width:148px;}
+
+#Content ul
+{
+	line-height:14pt;
+}
+
+#backgroundImage
+{
+	position:absolute;
+	top:117px;
+	left:0;
+	background-image:url(../images/ihNavBackground.png);	
+}
+
+#footer 
+{
+	left:160px;
+	right:5px;
+	bottom:0;
+	border-color:#d6d7d6;
+	border-width:1px;
+	border-top-style:dotted;
+	padding-top:.4em;
+}
+
+#headerLinks
+{
+	margin:0;
+	padding:0px 4px 0px 0px;
+	font-size:8pt;
+	color:#707070;
+	font-family:arial, verdana, helvetica, sans-serif;
+	background-color:#e0e0e0;
+	border-top:2px solid #fff;
+	border-bottom:1px solid #fff;
+	line-height:24px;
+}
+
+#headerLinksRightJustified
+{
+	margin:0;
+	padding:0px 4px 0px 0px;
+	font-size:8pt;
+	color:#707070;
+	font-family:arial, verdana, helvetica, sans-serif;
+	text-align:right;
+	background-color:#e0e0e0;
+	border-top:2px solid #fff;
+	border-bottom:1px solid #fff;
+	line-height:24px;
+}
+
+#headrule
+{
+	margin:0;
+	padding:0;
+	border-top:2px;
+	border-bottom:2px;
+	border-left:0;
+	border-right:0;
+	border-color:#fff;
+	border-style:solid;
+	color:#94bdff;
+	background-color:#94bdff; 
+	height:12px
+}
+
+#globalNavigation ul
+{
+	margin:0;
+	padding:0;
+	list-style-type:none;
+	text-align:left;
+	white-space:nowrap;
+	background-color:#29619c;
+	height:26px;
+}
+
+#globalNavigation ul li
+{
+	display:inline;
+}
+
+#globalNavigation ul li a
+{
+	text-decoration:none;
+	padding:4px 1px 8px 1px;
+	color:#fff;
+	background-color:#2e6099;
+	font-family:arial, verdana, helvetica, sans-serif;
+	font-size:8pt;
+	font-weight:normal;
+	border-right:2px solid #fff;
+}
+
+#globalNavigation ul li a:hover
+{
+	color:#fff;
+	background-color:#718ead;
+}
+
+#localNavigation ul
+{ 	
+	margin:0;
+	padding:0;
+	list-style-type:none;
+	background-color:#718ead;
+}
+
+#localNavigation a
+{ 
+	display:block;
+	color:#fff;
+	background-color:#718ead;
+	width:147px;
+	padding:3px 6px;
+	text-decoration:none;
+	border-bottom:1px solid #fff;
+	font-family:arial, verdana, helvetica, sans-serif;
+	font-size:8pt;
+	font-weight:normal;
+	
+/* Again, the ugly brilliant hack - allows MS IE 5.5 to use previous defined width */
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	width:136px;
+}
+
+#localNavigation a:hover
+{
+	background-color:#2e6099;
+	color:#fff;
+}
+

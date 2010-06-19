@@ -1,0 +1,9 @@
+Manintainability notes:
+
+  Most of the template should update automatically upon copying the new version 
+  of the folder /shared/ets from one of the cf servers.  However, the footer 
+  (footer.html), left nar bar seperators (in login.css), and Data & Automation 
+  logo (bannerLogo.css) are modified versions contained in the local 
+  css_js_includes directory.
+  
+  

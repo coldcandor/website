@@ -1,0 +1,778 @@
+968~~AS907 0-10K~~Production~~1~~orig~~1~~~~VDAS_SaleReports_AS907 0-10K_20050831_080445.xls
+968~~AS907 0-10K~~Production~~1~~orig~~1~~~~VDAS_SaleReports_AS907 0-10K_20050831_082223.xls
+968~~AS907 0-10K~~Development~~1~~8~~1~~0-10K VDAS,cold Start to Idle~~VDAS_SaleReports_AS907 0-10K_20050831_105036.xls
+968~~AS907 0-10K~~Development~~1~~8~~1~~0-10K VDAS,cold start Idle to max~~VDAS_SaleReports_AS907 0-10K_20050831_105816.xls
+968~~AS907 0-10K~~Development~~1~~8~~1~~0-10K VDAS, start to Idle ~~VDAS_SaleReports_AS907 0-10K_20050831_113520.xls
+968~~AS907 0-10K~~Development~~1~~8~~1~~0-10K VDAS,  Idle to Max~~VDAS_SaleReports_AS907 0-10K_20050831_114101.xls
+968~~AS907~~Development~~900R~~1~~1~~~~VDAS_SaleReports_AS907_20050817_092725.xls
+968~~AS907~~Development~~900R~~1~~1~~~~VDAS_SaleReports_AS907_20050817_093357.xls
+968~~AS907~~Development~~1~~orig~~1~~Santan~~VDAS_SaleReports_AS907_20050817_095505.xls
+968~~AS907~~Development~~1~~orig~~1~~Santan~~VDAS_SaleReports_AS907_20050817_095851.xls
+968~~AS907~~Development~~900R~~8~~1~~post fan bal.~~VDAS_SaleReports_AS907_20050823_094623.xls
+968~~AS907~~Development~~900R~~8~~2~~HP Vib Diagnosis start to idle~~VDAS_SaleReports_AS907_20050823_103223.xls
+968~~AS907~~Development~~900R~~8~~2~~HP Vib Diagnosis idle to max~~VDAS_SaleReports_AS907_20050823_103926.xls
+968~~AS907~~Development~~900R~~8~~3~~HP Vib. Diag. start/idle post 3hr S/D~~VDAS_SaleReports_AS907_20050823_134819.xls
+968~~AS907~~Development~~900R~~8~~3~~HP Vib. Diag. idle/max post 3hr S/D~~VDAS_SaleReports_AS907_20050823_135642.xls
+968~~AS907~~Development~~900R~~8~~3~~HP Vib. Diag. start/idle~~VDAS_SaleReports_AS907_20050823_143548.xls
+968~~AS907~~Development~~900R~~8~~3~~HP Vib. Diag.idle/max~~VDAS_SaleReports_AS907_20050823_144237.xls
+968~~AS907~~Development~~900R~~8~~4~~HP Vib Diag. cold start to idle~~VDAS_SaleReports_AS907_20050824_145208.xls
+968~~AS907~~Development~~900R~~8~~4~~HP Vib Diag. cold start  idle/max~~VDAS_SaleReports_AS907_20050824_150002.xls
+968~~AS907~~Development~~900R~~8~~4~~HP Vib Diag. start/ idle/~~VDAS_SaleReports_AS907_20050824_153658.xls
+968~~AS907~~Development~~900R~~8~~4~~HP Vib Diag. idle/ max~~VDAS_SaleReports_AS907_20050824_154353.xls
+963~~AS907~~Production~~1~~orig~~1~~Gold standard~~VDAS_SaleReports_AS907_20051017_103425.xls
+963~~AS907~~Production~~1~~orig~~1~~Gold standard~~VDAS_SaleReports_AS907_20051017_104033.xls
+965~~AS907~~Development~~900h~~15~~1~~~~VDAS_SaleReports_AS907_20051020_144303.xls
+965~~AS907~~Development~~900h~~15~~1~~~~VDAS_SaleReports_AS907_20051020_145117.xls
+965~~AS907~~Development~~900h~~15~~1~~~~VDAS_SaleReports_AS907_20051020_154710.xls
+965~~AS907~~Production~~1~~orig~~1~~Gold standard~~VDAS_SaleReports_AS907_20051020_165159.xls
+965~~AS907~~Development~~900h~~15~~1~~~~VDAS_SaleReports_AS907_20051020_170019.xls
+968~~AS907~~Development~~900j~~2~~1~~~~VDAS_SaleReports_AS907_20051025_114157.xls
+965~~AS907~~Development~~900h~~15~~1~~~~VDAS_SaleReports_AS907_20051025_195831.xls
+968~~AS907~~Development~~900j~~3~~1~~w/ golden fan installed~~VDAS_SaleReports_AS907_20051028_091246.xls
+965~~AS907~~Development~~900H~~15~~1~~after cycle 949~~VDAS_SaleReports_AS907_20051031_185725.xls
+965~~AS907~~Development~~900h~~15~~1~~after 1065 cycles~~VDAS_SaleReports_AS907_20051103_073034.xls
+965~~AS907~~Development~~900h~~15~~`1~~after 1065 cycles~~VDAS_SaleReports_AS907_20051103_074152.xls
+965~~AS907~~Development~~900S~~10~~1~~Pre SLD cycles~~VDAS_SaleReports_AS907_20051107_110011.xls
+954~~AS907~~Production~~Default~~orig~~1~~Gold Standards~~VDAS_SaleReports_AS907_20051108_081518.xls
+965~~AS907~~Development~~900S~~10~~1~~Trial Wt. of 1.9 gr~~VDAS_SaleReports_AS907_20051108_191128.xls
+965~~AS907~~Development~~900S~~10~~1~~Trial Wt. of 1.9 gr~~VDAS_SaleReports_AS907_20051108_191548.xls
+954~~AS907~~Production~~Default~~orig~~1~~Gold Standards~~VDAS_SaleReports_AS907_20051109_090635.xls
+965~~AS907~~Development~~900s~~10~~1~~2.3Gs @ 54 Degrees on PT~~VDAS_SaleReports_AS907_20051109_171503.xls
+965~~AS907~~Development~~900S~~10~~1~~~~VDAS_SaleReports_AS907_20051115_125657.xls
+954~~AS907~~Production~~Default~~orig~~1~~Gold Standards~~VDAS_SaleReports_AS907_20051116_104107.xls
+953~~AS907~~Production~~Default~~orig~~1~~Gold Standards~~VDAS_SaleReports_AS907_20051123_100913.xls
+954~~AS907~~Production~~Default~~orig~~1~~Gold Standards~~VDAS_SaleReports_AS907_20051123_111116.xls
+954~~AS907~~Production~~1~~1~~1~~~~VDAS_SaleReports_AS907_20051129_051713.xls
+954~~AS907~~Overhaul~~3456~~orig~~1~~sethstrj~~VDAS_SaleReports_AS907_20051129_054852.xls
+954~~AS907~~Production~~1~~1~~1~~~~VDAS_SaleReports_AS907_20051129_063105.xls
+954~~AS907~~Production~~118294~~orig~~1~~sale vdas ~~VDAS_SaleReports_AS907_20051201_161508.xls
+954~~AS907~~Production~~118294~~orig~~1~~sale vdas ~~VDAS_SaleReports_AS907_20051201_185124.xls
+954~~AS907~~Production~~118294~~orig~~1~~sale vdas ~~VDAS_SaleReports_AS907_20051201_224405.xls
+954~~AS907~~Production~~118294~~orig~~1~~-15 on #3, -10 on #4, -12 on #5, -15 on #6; 14.4G at 159 deg~~VDAS_SaleReports_AS907_20051202_003835.xls
+954~~AS907~~Production~~118294~~orig~~1~~all -1 weights~~VDAS_SaleReports_AS907_20051202_022228.xls
+954~~AS907~~Production~~118294~~orig~~1~~-14 on #5, -9 on #6; 9.7G at 197 deg~~VDAS_SaleReports_AS907_20051202_040943.xls
+954~~AS907~~Production~~118294~~orig~~1~~-9 on #3, -15 on #4, -15 on #5, -15 on #6; 20.2 G at 170 deg~~VDAS_SaleReports_AS907_20051202_050154.xls
+954~~AS907~~Production~~118294~~orig~~1~~-9 on #3, -15 on #4, -15 on -8 #4/ -13 #5/ 8.4g @ 164 deg, ACCEL~~VDAS_SaleReports_AS907_20051202_084124.xls
+954~~AS907~~Production~~118294~~orig~~1~~ -8 #4/ -13 #5/ 8.4g @ 164 deg, DECEL~~VDAS_SaleReports_AS907_20051202_085218.xls
+954~~AS907~~Production~~118294~~orig~~1~~-13 #4 / -11 #5 / -15 #6 / 14.0g @ 184 deg.~~VDAS_SaleReports_AS907_20051202_095303.xls
+954~~AS907~~Production~~118294~~orig~~1~~-7 #4 / -10 #5 / -15 #6 / 11.6g @ 196 deg.~~VDAS_SaleReports_AS907_20051202_104214.xls
+954~~AS907~~Production~~118294~~orig~~1~~-14 #4 / -14 #5 / -15 #6 / 16.0g @ 183 deg.~~VDAS_SaleReports_AS907_20051202_121208.xls
+954~~AS907~~Production~~118294~~orig~~1~~init vdas ~~VDAS_SaleReports_AS907_20051202_160549.xls
+954~~AS907~~Production~~118294~~orig~~1~~init vdas ~~VDAS_SaleReports_AS907_20051202_173332.xls
+954~~AS907~~Production~~118294~~orig~~1~~init vdas ~~VDAS_SaleReports_AS907_20051202_181933.xls
+954~~AS907~~Production~~118294~~orig~~1~~sale vdas~~VDAS_SaleReports_AS907_20051202_183057.xls
+954~~AS907~~Production~~118294~~orig~~1~~sale vdas~~VDAS_SaleReports_AS907_20051202_185703.xls
+968~~AS907~~Development~~900j~~3~~1~~~~VDAS_SaleReports_AS907_20051206_163408.xls
+954~~AS907~~Production~~1~~orig~~1~~~~VDAS_SaleReports_AS907_20051222_094422.xls
+954~~AS907~~Production~~1~~orig~~1~~~~VDAS_SaleReports_AS907_20051222_133745.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060103_105518.xls
+965~~AS907~~Development~~900S~~11~~1~~~~VDAS_SaleReports_AS907_20060103_170222.xls
+965~~AS907~~Development~~900S~~11~~1~~~~VDAS_SaleReports_AS907_20060103_173512.xls
+965~~AS907~~Development~~900S~~11~~1~~NSV TEST~~VDAS_SaleReports_AS907_20060103_174631.xls
+953~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060104_090729.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060104_095402.xls
+965~~AS907~~Development~~900S~~11~~1~~2.12gr. at zero deg. PT Blade~~VDAS_SaleReports_AS907_20060104_172743.xls
+965~~AS907~~Development~~900S~~11~~1~~1.84gm at 48deg Blade 10~~VDAS_SaleReports_AS907_20060104_210208.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060105_150932.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060106_100158.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060110_081009.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060110_081228.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060110_083733.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060110_084423.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060110_145922.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060110_151009.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060110_152900.xls
+954~~AS907~~Production~~1~~orig~~1~~~~VDAS_SaleReports_AS907_20060111_082124.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060111_084348.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060111_090019.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060111_091751.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060111_100105.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060111_104012.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060111_104428.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060111_110540.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060111_113253.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060111_114103.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060111_114714.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060111_120100.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060111_123917.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060111_131222.xls
+954~~AS907~~Production~~1~~orig~~1~~~~VDAS_SaleReports_AS907_20060111_135039.xls
+954~~AS907~~Production~~1~~orig~~1~~~~VDAS_SaleReports_AS907_20060111_135946.xls
+954~~AS907~~Production~~1~~orig~~1~~~~VDAS_SaleReports_AS907_20060111_140508.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060111_141055.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060111_144441.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060111_150003.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060111_150929.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060112_095531.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060112_100401.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060112_100751.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060112_100940.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060112_101512.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060112_101735.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060112_102132.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060112_135830.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060112_140142.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060112_143055.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060112_144647.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060113_102948.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060113_110036.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060113_112757.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060116_080205.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060117_094707.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060117_134804.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060117_142404.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060117_153332.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060118_082156.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060118_125824.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060118_132433.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060118_151527.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060118_153445.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060118_153551.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060119_082646.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060119_091756.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060119_104252.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060119_133321.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060119_141022.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060119_142858.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060119_143956.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060119_145044.xls
+954~~AS907~~Production~~1~~orig~~1~~~~VDAS_SaleReports_AS907_20060120_151539.xls
+954~~AS907~~Development~~1~~1~~1~~~~VDAS_SaleReports_AS907_20060120_152548.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060123_143746.xls
+954~~AS907~~Production~~1~~orig~~1~~~~VDAS_SaleReports_AS907_20060123_150022.xls
+954~~AS907~~Production~~1~~orig~~1~~~~VDAS_SaleReports_AS907_20060123_152424.xls
+953~~AS907~~Production~~1~~orig~~1~~~~VDAS_SaleReports_AS907_20060123_162925.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060123_163212.xls
+954~~AS907~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_AS907_20060123_163258.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060124_074220.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060124_085020.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060130_141208.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060130_143213.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060130_153013.xls
+953~~AS907~~Production~~P-118322~~orig~~1~~test~~VDAS_SaleReports_AS907_20060131_155132.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060201_075314.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060201_083809.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060201_144706.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060202_094607.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060202_104128.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060202_111810.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060202_124359.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060202_132335.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060202_134042.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060202_135012.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060202_141600.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060202_144318.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060203_070225.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060203_074107.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060203_081743.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060203_083807.xls
+963~~AS907~~Development~~900y~~7~~1~~~~VDAS_SaleReports_AS907_20060203_091328.xls
+963~~AS907~~Production~~1~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060203_095626.xls
+968~~AS907~~Production~~1~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060203_100033.xls
+968~~AS907~~Production~~1~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060203_101310.xls
+968~~AS907~~Production~~1~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060203_101804.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060209_110053.xls
+963~~AS907~~Development~~900y~~7~~1~~~~VDAS_SaleReports_AS907_20060210_091029.xls
+963~~AS907~~Development~~900y~~7~~1~~~~VDAS_SaleReports_AS907_20060210_093945.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060210_110245.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060214_083615.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060214_093221.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060214_094044.xls
+954~~AS907~~Production~~1~~1~~1~~~~VDAS_SaleReports_AS907_20060215_153307.xls
+954~~AS907~~Production~~1~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060220_155015.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060221_074709.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060221_083244.xls
+954~~AS907~~Production~~1~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060221_084635.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060221_085518.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060221_091924.xls
+954~~AS907~~Production~~1~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_AS907_20060221_092842.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - February 2006~~VDAS_SaleReports_AS907_20060224_081941.xls
+953~~AS907~~Other~~900  Q~~ONE-A~~1~~~~VDAS_SaleReports_AS907_20060303_184216.xls
+953~~AS907~~Other~~900 Q~~ONE-A~~1~~~~VDAS_SaleReports_AS907_20060303_205220.xls
+954~~AS907~~Production~~118325~~ORIG~~1~~~~VDAS_SaleReports_AS907_20060303_210220.xls
+954~~AS907~~Production~~118325~~ORIG~~1~~AS900 NSV~~VDAS_SaleReports_AS907_20060303_212408.xls
+954~~AS907~~Production~~118325~~ORIG~~1~~AS900 NSV~~VDAS_SaleReports_AS907_20060303_213324.xls
+968~~AS907~~Development~~900J~~3~~1~~Nasa QHSF2/new stators installed~~VDAS_SaleReports_AS907_20060307_134741.xls
+953~~AS907~~Production~~118000~~1a~~1~~vdas#1~~VDAS_SaleReports_AS907_20060307_182206.xls
+953~~AS907~~Production~~118000~~1a~~1~~vdas#2~~VDAS_SaleReports_AS907_20060307_192622.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - February 2006~~VDAS_SaleReports_AS907_20060308_110815.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - February 2006~~VDAS_SaleReports_AS907_20060309_103102.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060313_151523.xls
+954~~AS907~~Production~~118334~~orig~~1~~final~~VDAS_SaleReports_AS907_20060314_120636.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060314_133254.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060314_134526.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060314_135631.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060314_142111.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060314_145426.xls
+954~~AS907~~Production~~118334~~orig~~1~~final~~VDAS_SaleReports_AS907_20060314_164207.xls
+954~~AS907~~Production~~118334~~orig~~1~~final~~VDAS_SaleReports_AS907_20060314_183334.xls
+954~~AS907~~Production~~118333~~ONE~~1~~~~VDAS_SaleReports_AS907_20060315_224750.xls
+954~~AS907~~Production~~118333~~1~~1~~~~VDAS_SaleReports_AS907_20060316_025938.xls
+954~~AS907~~Production~~118333~~1~~1~~~~VDAS_SaleReports_AS907_20060316_042655.xls
+954~~AS907~~Production~~118333~~1~~1~~~~VDAS_SaleReports_AS907_20060316_051526.xls
+954~~AS907~~Production~~P-118330~~FOUR~~1~~~~VDAS_SaleReports_AS907_20060317_205107.xls
+954~~AS907~~Production~~118336~~ORIG~~1~~~~VDAS_SaleReports_AS907_20060319_074931.xls
+954~~AS907~~Production~~118336~~ORIG~~1~~~~VDAS_SaleReports_AS907_20060319_092720.xls
+954~~AS907~~Production~~118336~~.orig~~3~~-15@3, -14@4, -15@5..6.6g's@134deg.~~VDAS_SaleReports_AS907_20060319_114000.xls
+954~~AS907~~Production~~118336~~.orig~~3~~-15@3, -14@4, -15@5..6.6g's@134deg.~~VDAS_SaleReports_AS907_20060319_114449.xls
+963~~AS907~~Other~~900Q~~1A~~1~~~~VDAS_SaleReports_AS907_20060321_135925.xls
+963~~AS907~~Development~~900Q~~1A~~1~~~~VDAS_SaleReports_AS907_20060321_161831.xls
+963~~AS907~~Development~~900Q~~1A~~1~~~~VDAS_SaleReports_AS907_20060321_163505.xls
+953~~AS907~~Production~~118337~~ORIG~~1~~~~VDAS_SaleReports_AS907_20060322_021041.xls
+953~~AS907~~Production~~118337~~ORIG~~1~~-4 on #3, -12 on #4; 6.4G at 125 deg~~VDAS_SaleReports_AS907_20060322_040030.xls
+954~~AS907~~Production~~1~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060404_134023.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060411_135209.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060412_140459.xls
+953~~AS907~~Production~~118341~~ORIGINAL~~1~~#2 -3, #3 -13~~VDAS_SaleReports_AS907_20060415_045632.xls
+953~~AS907~~Production~~118341~~ORIG~~1~~Initial Accel Vdas After Fan Change~~VDAS_SaleReports_AS907_20060417_090328.xls
+953~~AS907~~Production~~118341~~ORIG~~1~~Initial Decel Vdas After Fan Change~~VDAS_SaleReports_AS907_20060417_091958.xls
+954~~AS907~~Production~~118343~~ORIG~~1~~-10 on #1, -8 on #2, -10 on #8; 9.8G at 356 deg~~VDAS_SaleReports_AS907_20060419_003113.xls
+954~~AS907~~Production~~118343~~ORIG~~1~~Decel VDAS~~VDAS_SaleReports_AS907_20060419_004442.xls
+954~~AS907~~Production~~118343~~ORIG~~1~~-15 on #1, -7 on #2, -14 on #8; 13.9G at 349 deg~~VDAS_SaleReports_AS907_20060419_020649.xls
+954~~AS907~~Production~~118343~~ORIG~~1~~Decel VDAS~~VDAS_SaleReports_AS907_20060419_021830.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060420_085349.xls
+954~~AS907~~Production~~118345~~ORIG~~1~~~~VDAS_SaleReports_AS907_20060423_013407.xls
+954~~AS907~~Production~~118345~~ORIG~~1~~~~VDAS_SaleReports_AS907_20060423_023849.xls
+954~~AS907~~Production~~118345~~ORIG~~1~~~~VDAS_SaleReports_AS907_20060423_025932.xls
+954~~AS907~~Production~~118345~~ORIG~~1~~DECEL VDAS~~VDAS_SaleReports_AS907_20060423_043355.xls
+953~~AS907~~Production~~118346~~ORIG~~1~~INITIAL VDAS~~VDAS_SaleReports_AS907_20060423_083741.xls
+953~~AS907~~Production~~118346~~ORIG~~1~~DECEL VDAS~~VDAS_SaleReports_AS907_20060423_105035.xls
+953~~AS907~~Production~~118346~~ORIG~~1~~DECEL VDAS~~VDAS_SaleReports_AS907_20060423_110922.xls
+953~~AS907~~Production~~118346~~ORIG~~1~~ACCEL VDAS~~VDAS_SaleReports_AS907_20060423_111944.xls
+953~~AS907~~Production~~118346~~ORIG~~1~~ACCEL VDAS~~VDAS_SaleReports_AS907_20060423_114434.xls
+953~~AS907~~Production~~118346~~ORIG~~1~~DECEL VDAS~~VDAS_SaleReports_AS907_20060423_115125.xls
+953~~AS907~~Production~~P-118346~~ORIG~~1~~ACCEL VDAS ~~VDAS_SaleReports_AS907_20060423_122259.xls
+953~~AS907~~Production~~P-118346~~ORIG~~1~~-6#1, -5#7, -5#8 = 4.6G @ 320 DEG~~VDAS_SaleReports_AS907_20060423_132347.xls
+953~~AS907~~Production~~P-118346~~ORIG~~1~~DECEL VDAS AFTER T/B~~VDAS_SaleReports_AS907_20060423_133052.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060424_080701.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060424_081519.xls
+954~~AS907~~Production~~1~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060424_084937.xls
+954~~AS907~~Production~~1~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060424_085423.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060424_095343.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060424_143152.xls
+953~~AS907~~Production~~118347~~ORIG~~1~~~~VDAS_SaleReports_AS907_20060425_005251.xls
+953~~AS907~~Production~~118347~~ORIG~~1~~Decel VDAS~~VDAS_SaleReports_AS907_20060425_010058.xls
+953~~AS907~~Production~~118348~~orig~~1~~initial vdas, accel.~~VDAS_SaleReports_AS907_20060425_102850.xls
+953~~AS907~~Production~~118348~~orig~~1~~initial Decel Vdas~~VDAS_SaleReports_AS907_20060425_103621.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060427_135348.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060502_150812.xls
+953~~AS907~~Overhaul~~900Q~~one~~1~~initial vdas~~VDAS_SaleReports_AS907_20060504_104346.xls
+953~~AS907~~Overhaul~~900Q~~one~~1~~initial vdas~~VDAS_SaleReports_AS907_20060504_125427.xls
+953~~AS907~~Development~~123451~~1~~1~~Testing~~VDAS_SaleReports_AS907_20060506_060420.xls
+953~~AS907~~Development~~123451~~1~~1~~Testing~~VDAS_SaleReports_AS907_20060506_060943.xls
+954~~AS907~~Production~~1~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060508_074556.xls
+954~~AS907~~Production~~1~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060508_084922.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060508_100113.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060508_111337.xls
+963~~AS907~~Production~~1~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060508_111710.xls
+953~~AS907~~Production~~1~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060509_160719.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060511_151740.xls
+954~~AS907~~Development~~Serial~~orig~~1~~rereduction with waterfalls vs n2~~VDAS_SaleReports_AS907_20060517_082158.xls
+954~~AS907~~Production~~118357~~1~~1~~Final~~VDAS_SaleReports_AS907_20060520_084327.xls
+954~~AS907~~Production~~118357~~1~~1~~Decel VDAS~~VDAS_SaleReports_AS907_20060520_085303.xls
+954~~AS907~~Production~~118357~~1~~2~~FINAL~~VDAS_SaleReports_AS907_20060520_110438.xls
+954~~AS907~~Production~~118357~~1~~2~~FINAL~~VDAS_SaleReports_AS907_20060520_111528.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060522_101903.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060522_132050.xls
+954~~AS907~~Production~~1~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060522_134916.xls
+954~~AS907~~Production~~1~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060522_140929.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060522_141824.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060522_144835.xls
+953~~AS907~~Overhaul~~118201~~ORIG~~1~~~~VDAS_SaleReports_AS907_20060526_004055.xls
+953~~AS907~~Overhaul~~118201~~ORIG~~1~~-2 on #2, -6 on #3, -7 on #4; 4.9G at 110 deg~~VDAS_SaleReports_AS907_20060526_022841.xls
+953~~AS907~~Overhaul~~118201~~ORIG~~1~~Decel VDAS~~VDAS_SaleReports_AS907_20060526_024551.xls
+954~~AS907~~Production~~1~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060530_141936.xls
+953~~AS907~~Overhaul~~118114~~ORIG~~1~~~~VDAS_SaleReports_AS907_20060603_014747.xls
+954~~AS907~~Production~~118364~~ORG~~1~~INITIAL VDAS~~VDAS_SaleReports_AS907_20060612_011421.xls
+954~~AS907~~Production~~118364~~ORG~~1~~INITIAL VDAS~~VDAS_SaleReports_AS907_20060612_042629.xls
+954~~AS907~~Production~~118364~~ORG~~1~~INITIAL VDAS~~VDAS_SaleReports_AS907_20060612_051835.xls
+954~~AS907~~Production~~118364~~ORIG~~4~~DECEL~~VDAS_SaleReports_AS907_20060612_075137.xls
+954~~AS907~~Production~~118364~~ORIG~~4~~-14@1, -15@7...9.7G'S @ 313DEG.~~VDAS_SaleReports_AS907_20060612_080037.xls
+953~~AS907~~Production~~118364~~1~~1~~initial~~VDAS_SaleReports_AS907_20060613_102831.xls
+953~~AS907~~Production~~118364~~1~~1~~Decel~~VDAS_SaleReports_AS907_20060613_103612.xls
+953~~AS907~~Production~~118364~~1~~2~~-14@1, -15@7...9.7g's@313deg.~~VDAS_SaleReports_AS907_20060613_124731.xls
+953~~AS907~~Other~~900Q~~1A~~1~~CORR~~VDAS_SaleReports_AS907_20060706_045642.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060710_092339.xls
+954~~AS907~~Other~~900Q~~1A~~1~~FIRST CALIB~~VDAS_SaleReports_AS907_20060714_175602.xls
+954~~AS907~~Other~~900Q~~1A~~2~~SECOND CALIB~~VDAS_SaleReports_AS907_20060714_190920.xls
+954~~AS907~~Production~~118376~~ONE~~1~~~~VDAS_SaleReports_AS907_20060731_024831.xls
+953~~AS907~~Production~~118375~~ONE~~1~~~~VDAS_SaleReports_AS907_20060731_044426.xls
+954~~AS907~~Production~~118376~~ONE~~1~~#5 -9, #6 -2~~VDAS_SaleReports_AS907_20060731_044516.xls
+953~~AS907~~Production~~118375~~ONE~~1~~~~VDAS_SaleReports_AS907_20060731_045428.xls
+954~~AS907~~Production~~118376~~ONE~~1~~#5 -9, #6 -2~~VDAS_SaleReports_AS907_20060731_050826 zeroed.xls
+954~~AS907~~Production~~118376~~ONE~~1~~#5 -9, #6 -2~~VDAS_SaleReports_AS907_20060731_050826.xls
+953~~AS907~~Production~~118375~~ONE~~1~~INITIAL VDAS~~VDAS_SaleReports_AS907_20060731_065115.xls
+953~~AS907~~Production~~118375~~ONE~~1~~-9 #1 / -9 #7 / 5.6g @ 315 deg.~~VDAS_SaleReports_AS907_20060731_084241.xls
+953~~AS907~~Production~~118375~~ONE~~1~~-5 #1 / -15 #2 / -13 #8 / 11.0g @ 4 deg.~~VDAS_SaleReports_AS907_20060731_093343.xls
+953~~AS907~~Production~~118375~~ONE~~1~~-5 #1 / -15 #2 / -13 #8 / 11.0g @ 4 deg. DECEL VDAS~~VDAS_SaleReports_AS907_20060731_102222.xls
+953~~AS907~~Production~~118375~~ONE~~1~~-5 #1 / -15 #2 / -13 #8 / 11.0g @ 4 deg. ~~VDAS_SaleReports_AS907_20060731_102934.xls
+953~~AS907~~Production~~118375~~ONE~~1~~-5 #1 / -15 #2 / -13 #8 / 11.0g @ 4 deg. ~~VDAS_SaleReports_AS907_20060731_104529.xls
+953~~AS907~~Production~~118374~~ORIG~~1~~INITIAL VDAS~~VDAS_SaleReports_AS907_20060807_131222.xls
+953~~AS907~~Production~~118371~~orig~~1~~INITIAL VDAS~~VDAS_SaleReports_AS907_20060808_140306.xls
+953~~AS907~~Production~~118371~~orig~~1~~DECEL VDAS~~VDAS_SaleReports_AS907_20060808_141931.xls
+953~~AS907~~Production~~P118371~~ORIG~~1~~~~VDAS_SaleReports_AS907_20060808_154529.xls
+953~~AS907~~Production~~P118371~~ORIG~~1~~-8,#6/ -5, #7/ -3,#8~~VDAS_SaleReports_AS907_20060808_163723.xls
+953~~AS907~~Production~~P118371~~ORIG~~1~~-8,#6/ -5, #7/ -3,#8~~VDAS_SaleReports_AS907_20060808_165214.xls
+953~~AS907~~Production~~P118371~~ORIG~~1~~-8,#6/ -5, #7/ -3,#8~~VDAS_SaleReports_AS907_20060808_174033.xls
+954~~AS977~~Production~~1~~orig~~1~~~~VDAS_SaleReports_AS977_20060120_105932.xls
+954~~AS977~~Production~~1~~orig~~1~~~~VDAS_SaleReports_AS977_20060123_094753.xls
+954~~AS977~~Production~~1~~orig~~1~~~~VDAS_SaleReports_AS977_20060123_095525.xls
+966~~AS977~~Development~~119123~~1a~~1~~~~VDAS_SaleReports_AS977_20060216_165805.xls
+966~~AS977~~Development~~119123~~1a~~1~~dummy VDAS~~VDAS_SaleReports_AS977_20060217_103630.xls
+953~~AS977~~Overhaul~~1~~1~~1~~~~VDAS_SaleReports_AS977_20060302_142300.xls
+954~~AS977~~Production~~1~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS977_20060427_130115.xls
+954~~AS977~~Production~~1~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS977_20060427_132045.xls
+966~~AS977~~Development~~119123~~1a~~1~~~~VDAS_SaleReports_AS977_20060512_110716.xls
+966~~AS977~~Development~~119123~~1a~~1~~~~VDAS_SaleReports_AS977_20060512_143413.xls
+966~~AS977~~Production~~1~~1~~1~~~~VDAS_SaleReports_AS977_20060515_083857.xls
+966~~AS977~~Development~~119123~~1a~~1~~~~VDAS_SaleReports_AS977_20060515_122811.xls
+966~~AS977~~Development~~119123~~1a~~1~~~~VDAS_SaleReports_AS977_20060515_124657.xls
+954~~AS977~~Production~~1~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS977_20060518_140034.xls
+920~~ATF3-6A~~Production~~Default~~orig~~1~~Gold Standards~~VDAS_SaleReports_ATF3-6A_20051109_144454.xls
+921~~ATF3-6A~~Production~~Default~~orig~~1~~Gold Standards~~VDAS_SaleReports_ATF3-6A_20051117_102612.xls
+921~~ATF3-6A~~Production~~Default~~orig~~1~~Gold Standards~~VDAS_SaleReports_ATF3-6A_20051117_105050.xls
+921~~ATF3-6A~~Production~~1~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_ATF3-6A_20060124_083436.xls
+921~~ATF3-6A~~Production~~1~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_ATF3-6A_20060124_095248.xls
+954~~ATF3-6A~~Development~~Serial~~orig~~1~~Gold standard run - February 2006~~VDAS_SaleReports_ATF3-6A_20060224_083020.xls
+954~~ATF3-6A~~Development~~Serial~~orig~~1~~Gold standard run - February 2006~~VDAS_SaleReports_ATF3-6A_20060224_084020.xls
+921~~ATF3-6A~~Production~~1~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_ATF3-6A_20060501_152418.xls
+953~~CFE738 NSV~~Development~~1~~1~~12~~this is a test of the ~~VDAS_SaleReports_CFE738 NSV_20060221_105135.xls
+953~~CFE738 NSV~~Overhaul~~105199~~ORIG~~1~~NSV VDAS~~VDAS_SaleReports_CFE738 NSV_20060421_070912.xls
+953~~CFE738 NSV~~Overhaul~~105199~~ORIG~~1~~NSV VDAS~~VDAS_SaleReports_CFE738 NSV_20060421_072500.xls
+953~~CFE738 NSV~~Overhaul~~105199~~ORIG~~1~~NSV VDAS~~VDAS_SaleReports_CFE738 NSV_20060422_103546.xls
+953~~CFE738 NSV~~Overhaul~~105480~~orig~~1~~NSV VDAS~~VDAS_SaleReports_CFE738 NSV_20060429_100918.xls
+953~~CFE738 NSV~~Overhaul~~105409~~ORIGINAL~~1~~NSV ON PTV~~VDAS_SaleReports_CFE738 NSV_20060502_001120.xls
+953~~CFE738~~Production~~1~~orig~~1~~Gold standard~~VDAS_SaleReports_CFE738_20051013_163223.xls
+953~~CFE738~~Production~~1~~orig~~1~~Gold standard~~VDAS_SaleReports_CFE738_20051013_164036.xls
+953~~CFE738~~Development~~1~~orig~~1~~~~VDAS_SaleReports_CFE738_20051018_082210.xls
+954~~CFE738~~Production~~Default~~orig~~1~~Gold Standards~~VDAS_SaleReports_CFE738_20051109_091558.xls
+954~~CFE738~~Repair~~1~~2~~1~~~~VDAS_SaleReports_CFE738_20051129_060439.xls
+954~~CFE738~~Production~~105598~~org~~1~~~~VDAS_SaleReports_CFE738_20051219_180301.xls
+954~~CFE738~~Production~~105598~~org~~1~~~~VDAS_SaleReports_CFE738_20051219_181627.xls
+954~~CFE738~~Development~~Serial~~orig~~1~~ ~~VDAS_SaleReports_CFE738_20060118_144654.xls
+954~~CFE738~~Production~~Default~~orig~~1~~Gold standard~~VDAS_SaleReports_CFE738_20060120_083257.xls
+954~~CFE738~~Production~~Default~~orig~~1~~Gold standard~~VDAS_SaleReports_CFE738_20060120_085029.xls
+954~~CFE738~~Production~~Default~~orig~~1~~Gold standard~~VDAS_SaleReports_CFE738_20060120_092220.xls
+954~~CFE738~~Production~~Default~~orig~~1~~Gold standard~~VDAS_SaleReports_CFE738_20060120_101109.xls
+954~~CFE738~~Production~~Default~~orig~~1~~Gold standard~~VDAS_SaleReports_CFE738_20060120_115544.xls
+954~~CFE738~~Production~~Default~~orig~~1~~Gold standard~~VDAS_SaleReports_CFE738_20060120_124435.xls
+954~~CFE738~~Production~~Default~~orig~~1~~Gold standard~~VDAS_SaleReports_CFE738_20060120_125016.xls
+954~~CFE738~~Production~~Default~~orig~~1~~Gold standard~~VDAS_SaleReports_CFE738_20060120_145512.xls
+954~~CFE738~~Production~~Default~~orig~~1~~Gold standard~~VDAS_SaleReports_CFE738_20060120_150824.xls
+954~~CFE738~~Production~~Default~~orig~~1~~Gold standard~~VDAS_SaleReports_CFE738_20060123_154447.xls
+954~~CFE738~~Production~~Default~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_CFE738_20060124_092339.xls
+953~~CFE738~~Overhaul~~105126~~orig~~1~~none~~VDAS_SaleReports_CFE738_20060131_191039.xls
+953~~CFE738~~Repair~~P-105126~~ORIG~~1~~INITIAL VDAS~~VDAS_SaleReports_CFE738_20060202_161324.xls
+953~~CFE738~~Overhaul~~105260~~ORIG~~1~~~~VDAS_SaleReports_CFE738_20060205_042954.xls
+953~~CFE738~~Repair~~105269~~ORIG.~~1~~FINAL VDAS~~VDAS_SaleReports_CFE738_20060207_083747.xls
+953~~CFE738~~Production~~P-105601~~ORIG~~1~~INITIAL VDAS~~VDAS_SaleReports_CFE738_20060217_194053.xls
+953~~CFE738~~Repair~~105468~~L/F~~1~~INITIAL VDAS~~VDAS_SaleReports_CFE738_20060220_102014.xls
+953~~CFE738~~Repair~~105~~ORIG~~1~~~~VDAS_SaleReports_CFE738_20060221_074255.xls
+953~~CFE738~~Repair~~105427~~ORIG~~1~~~~VDAS_SaleReports_CFE738_20060221_092214.xls
+953~~CFE738~~Repair~~105427~~ORIG~~1~~~~VDAS_SaleReports_CFE738_20060221_100309.xls
+953~~CFE738~~Repair~~105415~~Orig.~~1~~INITIAL VDAS~~VDAS_SaleReports_CFE738_20060223_141425.xls
+953~~CFE738~~Overhaul~~105470~~L/F~~1~~INITIAL VDAS~~VDAS_SaleReports_CFE738_20060228_093329.xls
+953~~CFE738~~Overhaul~~105172~~L/F~~1~~INITIAL VDAS~~VDAS_SaleReports_CFE738_20060301_124519.xls
+953~~CFE738~~Overhaul~~105171~~l/f~~1~~initial vdas~~VDAS_SaleReports_CFE738_20060302_075426.xls
+953~~CFE738~~Overhaul~~P-105141~~L/F~~1~~INITIAL VDAS~~VDAS_SaleReports_CFE738_20060302_165409.xls
+953~~CFE738~~Overhaul~~105403~~ORIG~~1~~INITIAL VDAS~~VDAS_SaleReports_CFE738_20060307_063226.xls
+953~~CFE738~~Overhaul~~105403~~ORIG~~1~~-7 #1 / -2 #8 / 7.0g @ 353 deg.~~VDAS_SaleReports_CFE738_20060307_075149.xls
+953~~CFE738~~Overhaul~~105403~~ORIG~~1~~-2 #7 / -5 #8 / 5.0g @ 306 deg.~~VDAS_SaleReports_CFE738_20060307_084848.xls
+953~~CFE738~~Overhaul~~105343~~ORIG~~1~~~~VDAS_SaleReports_CFE738_20060308_020730.xls
+953~~CFE738~~Overhaul~~105343~~ORIG~~1~~-5 on #6, -5 on #7; 7.8G at 247 deg~~VDAS_SaleReports_CFE738_20060308_031628.xls
+953~~CFE738~~Overhaul~~105343~~ORIG~~1~~Spinner clocked 180~~VDAS_SaleReports_CFE738_20060308_041021.xls
+953~~CFE738~~Overhaul~~105343~~ORIG~~1~~-5 on #2, -8 on #3, -2 on #4; 11.1G at 77 deg~~VDAS_SaleReports_CFE738_20060308_050117.xls
+953~~CFE738~~Overhaul~~105343~~ORIG~~1~~-17 on #2; 16.6G at 45 deg~~VDAS_SaleReports_CFE738_20060308_053136.xls
+953~~CFE738~~Overhaul~~105228~~org~~1~~~~VDAS_SaleReports_CFE738_20060311_143242.xls
+953~~CFE738~~Overhaul~~105395~~L/F/S~~1~~INITIAL VDAS~~VDAS_SaleReports_CFE738_20060313_162243.xls
+953~~CFE738~~Overhaul~~105395~~L/F/S~~1~~ALL -1'S INSTALLED~~VDAS_SaleReports_CFE738_20060313_173625.xls
+953~~CFE738~~Overhaul~~105395~~L/F/S~~1~~-3#3, -2#4, -3#5 = 3.9G @ 135 DEG~~VDAS_SaleReports_CFE738_20060313_180752.xls
+953~~CFE738~~Overhaul~~105395~~L/F/S~~1~~-2#5 = 4.1G @ 45 DEG~~VDAS_SaleReports_CFE738_20060313_184222.xls
+953~~CFE738~~Overhaul~~105395~~L/F/S~~1~~-4#2, -3#3 = 4.8G @ 63 DEG~~VDAS_SaleReports_CFE738_20060313_191005.xls
+953~~CFE738~~Overhaul~~105395~~L/F/S~~1~~STEADY STATE VDAS FOR PTH LP~~VDAS_SaleReports_CFE738_20060313_192745.xls
+953~~CFE738~~Overhaul~~105395~~LFS~~1~~New Th and TV accelerometer~~VDAS_SaleReports_CFE738_20060314_005441.xls
+953~~CFE738~~Overhaul~~105395~~LFS~~1~~Steady state for PTV~~VDAS_SaleReports_CFE738_20060314_011007.xls
+953~~CFE738~~Overhaul~~105395~~LFS~~1~~New TH and TV accelerometer~~VDAS_SaleReports_CFE738_20060314_022216.xls
+953~~CFE738~~Overhaul~~105395~~LFS~~1~~Steady state for TH~~VDAS_SaleReports_CFE738_20060314_023622.xls
+953~~CFE738~~Overhaul~~105374~~Orig.~~1~~INITIAL VDAS~~VDAS_SaleReports_CFE738_20060316_070414.xls
+953~~CFE738~~Overhaul~~105395~~orig~~1~~~~VDAS_SaleReports_CFE738_20060316_184907.xls
+953~~CFE738~~Overhaul~~105395~~orig~~1~~~~VDAS_SaleReports_CFE738_20060316_202931.xls
+953~~CFE738~~Overhaul~~105395~~orig~~1~~~~VDAS_SaleReports_CFE738_20060316_210810.xls
+953~~CFE738~~Overhaul~~105395~~orig~~1~~~~VDAS_SaleReports_CFE738_20060316_221016.xls
+953~~CFE738~~Overhaul~~105395~~orig~~1~~-3 on #2; 2.3G at 43 deg~~VDAS_SaleReports_CFE738_20060316_233937.xls
+953~~CFE738~~Overhaul~~105395~~orig~~1~~-7 on #2, -3 on #3; 7.8G at 57 deg~~VDAS_SaleReports_CFE738_20060317_003110.xls
+953~~CFE738~~Overhaul~~105395~~orig~~1~~-7 on #2, -3 on #3; 7.8G at 57 deg~~VDAS_SaleReports_CFE738_20060317_004427.xls
+953~~CFE738~~Overhaul~~105395~~orig~~1~~-3 on #1, -6 on #2, -5 on #8; 8.7G at 5 deg~~VDAS_SaleReports_CFE738_20060317_013458.xls
+953~~CFE738~~Overhaul~~P-105373~~ORIG~~1~~INITIAL VDAS~~VDAS_SaleReports_CFE738_20060321_135006.xls
+953~~CFE738~~Overhaul~~P-105373~~ORIG~~1~~-5#1, -2#8, -5#7 = 6.9G @ 315 DEG~~VDAS_SaleReports_CFE738_20060321_142319.xls
+953~~CFE738~~Overhaul~~105380~~ORIG.~~1~~INITIAL VDAS~~VDAS_SaleReports_CFE738_20060327_140306.xls
+953~~CFE738~~Overhaul~~105467~~orig~~1~~initial vdas~~VDAS_SaleReports_CFE738_20060330_085441.xls
+953~~CFE738~~Overhaul~~105467~~orig~~1~~-4 #1 / -6 #3 / 6.1g @ 62 deg.~~VDAS_SaleReports_CFE738_20060330_093948.xls
+953~~CFE738~~Overhaul~~105467~~orig~~1~~-7 #1 / -6 #2 / 10.3g @ 21 deg.~~VDAS_SaleReports_CFE738_20060330_101228.xls
+953~~CFE738~~Overhaul~~105467~~orig~~1~~-7 #1 / -6 #2 / 10.3g @ 21 deg.~~VDAS_SaleReports_CFE738_20060330_102555.xls
+954~~CFE738~~Overhaul~~105339~~orig~~1~~~~VDAS_SaleReports_CFE738_20060418_064202.xls
+954~~CFE738~~Overhaul~~105339~~orig~~1~~~~VDAS_SaleReports_CFE738_20060418_072832.xls
+954~~CFE738~~Overhaul~~105339~~orig~~2~~initial vdas~~VDAS_SaleReports_CFE738_20060418_092316.xls
+954~~CFE738~~Overhaul~~105339~~orig~~2~~after 1st solution~~VDAS_SaleReports_CFE738_20060418_103815.xls
+953~~CFE738~~Overhaul~~105470~~orig~~1~~~~VDAS_SaleReports_CFE738_20060420_025830.xls
+953~~CFE738~~Overhaul~~105199~~orig~~1~~initial vdas~~VDAS_SaleReports_CFE738_20060421_063705.xls
+953~~CFE738~~Overhaul~~105199~~ORIG~~1~~INITIAL VDAS~~VDAS_SaleReports_CFE738_20060422_070803.xls
+953~~CFE738~~Overhaul~~105199~~ORIG~~1~~INITIAL VDAS~~VDAS_SaleReports_CFE738_20060422_073806.xls
+953~~CFE738~~Overhaul~~105199~~ORIG~~1~~INITIAL VDAS~~VDAS_SaleReports_CFE738_20060422_082752.xls
+953~~CFE738~~Overhaul~~105199~~ORIG~~1~~-3 #2 / -5 #3 / -7 #4 / 10.4g @ 108 Deg.~~VDAS_SaleReports_CFE738_20060422_095741.xls
+954~~CFE738~~Production~~1~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_CFE738_20060427_134015.xls
+953~~CFE738~~Overhaul~~105480~~orig~~1~~~~VDAS_SaleReports_CFE738_20060429_000651.xls
+953~~CFE738~~Overhaul~~105480~~orig~~1~~~~VDAS_SaleReports_CFE738_20060429_010140.xls
+953~~CFE738~~Overhaul~~105480~~orig~~1~~initial vdas after fan clocked~~VDAS_SaleReports_CFE738_20060429_080257.xls
+953~~CFE738~~Overhaul~~105480~~orig~~1~~-3 #6 / -3 #7 / -3 #8 / 5.0g @ 270 Deg.~~VDAS_SaleReports_CFE738_20060429_094056.xls
+953~~CFE738~~Overhaul~~105409~~orig~~1~~~~VDAS_SaleReports_CFE738_20060501_220928.xls
+953~~CFE738~~Overhaul~~105409~~orig~~1~~~~VDAS_SaleReports_CFE738_20060501_222040.xls
+953~~CFE738~~Overhaul~~105409~~ORIGNAL~~1~~#2 -2, #3 -3, #4 -4~~VDAS_SaleReports_CFE738_20060501_234343.xls
+954~~CFE738~~Production~~1~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_CFE738_20060508_075451.xls
+954~~CFE738~~Production~~1~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_CFE738_20060508_080031.xls
+954~~CFE738~~Production~~1~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_CFE738_20060508_080653.xls
+954~~CFE738~~Production~~1~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_CFE738_20060508_081240.xls
+954~~CFE738~~Production~~1~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_CFE738_20060509_140228.xls
+954~~CFE738~~Production~~Default~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_CFE738_20060509_151935.xls
+954~~CFE738~~Production~~1~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_CFE738_20060509_153324.xls
+954~~CFE738~~Production~~Default~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_CFE738_20060509_153822.xls
+954~~CFE738~~Production~~1~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_CFE738_20060509_154310.xls
+954~~CFE738~~Production~~Default~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_CFE738_20060509_154417.xls
+954~~CFE738~~Production~~1~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_CFE738_20060509_154910.xls
+954~~CFE738~~Production~~Default~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_CFE738_20060509_155827.xls
+954~~CFE738~~Overhaul~~105338~~ORIG~~1~~INITIAL VDAS~~VDAS_SaleReports_CFE738_20060622_071135.xls
+954~~CFE738~~Overhaul~~105338~~ORIG~~1~~INITIAL VDAS~~VDAS_SaleReports_CFE738_20060622_075949.xls
+954~~CFE738~~Overhaul~~105338~~ORIG~~1~~INITIAL VDAS~~VDAS_SaleReports_CFE738_20060622_085840.xls
+954~~CFE738~~Overhaul~~105338~~Orig.~~1~~FINAL VDAS~~VDAS_SaleReports_CFE738_20060622_103507.xls
+953~~CFE738~~Overhaul~~105337~~Orig.~~1~~INITIAL VDAS~~VDAS_SaleReports_CFE738_20060623_073652.xls
+953~~CFE738~~Overhaul~~105337~~Orig.~~1~~1ST SOLUTION~~VDAS_SaleReports_CFE738_20060623_092353.xls
+953~~CFE738~~Overhaul~~105337~~Orig.~~1~~1ST SOLUTION~~VDAS_SaleReports_CFE738_20060623_095859.xls
+954~~CFE738~~Overhaul~~105164~~Orig.~~1~~INITIAL VDAS~~VDAS_SaleReports_CFE738_20060801_100413.xls
+954~~CFE738~~Overhaul~~105104~~14A3~~1~~INITIAL VDAS~~VDAS_SaleReports_CFE738_20060815_123420.xls
+968~~F124_ch6~~Development~~1~~1~~1~~6 channels for F124~~VDAS_SaleReports_F124_ch6_20060522_141835.xls
+968~~F124_ch6~~Development~~1~~1~~1~~6 channels for F124~~VDAS_SaleReports_F124_ch6_20060522_143411.xls
+954~~HTS900~~Production~~1~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_HTS900_20060505_101919.xls
+931~~HTS900~~Development~~1~~1~~1~~VDAS run~~VDAS_SaleReports_HTS900_20060712_135408.xls
+963~~LF502~~Production~~1~~orig~~1~~Gold standard~~VDAS_SaleReports_LF502_20051013_100059.xls
+963~~LF502~~Production~~1~~orig~~1~~Gold standard~~VDAS_SaleReports_LF502_20051013_102204.xls
+956~~LF502~~Production~~1~~orig~~1~~Gold standard~~VDAS_SaleReports_LF502_20051018_120015.xls
+956~~LF502~~Production~~1~~orig~~1~~Gold standard~~VDAS_SaleReports_LF502_20051018_124236.xls
+953~~LF502~~Production~~1~~orig~~1~~Gold standard~~VDAS_SaleReports_LF502_20051102_091538.xls
+920~~LF502~~Production~~1~~orig~~1~~Rereduction~~VDAS_SaleReports_LF502_20051213_080139.xls
+954~~LF502~~Overhaul~~5420~~ORIG~~1~~~~VDAS_SaleReports_LF502_20060321_202328.xls
+954~~LF502~~Overhaul~~5420~~ORIG~~1~~~~VDAS_SaleReports_LF502_20060321_204329.xls
+954~~LF502~~Overhaul~~5420~~ORIG~~1~~~~VDAS_SaleReports_LF502_20060321_213157.xls
+954~~LF502~~Overhaul~~5420~~ORIG~~1~~~~VDAS_SaleReports_LF502_20060321_222552.xls
+953~~LF502~~Overhaul~~5763~~ORIG~~1~~~~VDAS_SaleReports_LF502_20060328_001432.xls
+953~~LF502~~Overhaul~~5763~~ORIG~~1~~#13 -4, #15 -6~~VDAS_SaleReports_LF502_20060328_043956.xls
+953~~LF502~~Overhaul~~5763~~ORIG~~1~~#14 -7, #15 -4~~VDAS_SaleReports_LF502_20060328_053136.xls
+954~~LF502~~Overhaul~~3069~~ORIG~~1~~~~VDAS_SaleReports_LF502_20060331_042828.xls
+954~~LF507~~Production~~Default~~orig~~1~~Gold Standards~~VDAS_SaleReports_LF507_20051109_092450.xls
+953~~LF507~~Repair~~7811~~ORIG~~1~~~~VDAS_SaleReports_LF507_20060216_200956.xls
+953~~LF507~~Repair~~7811~~ORIG~~1~~~~VDAS_SaleReports_LF507_20060216_201441.xls
+954~~LF507~~Overhaul~~p07738~~orig~~1~~~~VDAS_SaleReports_LF507_20060325_012309.xls
+954~~LF507~~Overhaul~~p07738~~orig~~1~~~~VDAS_SaleReports_LF507_20060325_030909.xls
+954~~LF507~~Overhaul~~p07738~~orig~~1~~~~VDAS_SaleReports_LF507_20060325_033934.xls
+954~~LF507~~Overhaul~~LF7006~~Orig.~~1~~1ST SOLUTION~~VDAS_SaleReports_LF507_20060717_072640.xls
+954~~TFE731-20~~Production~~116700~~org~~1~~~~VDAS_SaleReports_TFE731-20_20051214_164140.xls
+954~~TFE731-20~~Production~~116700~~org~~1~~~~VDAS_SaleReports_TFE731-20_20051214_165943.xls
+954~~TFE731-20~~Production~~116700~~orig~~1~~Rereduction~~VDAS_SaleReports_TFE731-20_20051214_170950.xls
+954~~TFE731-20~~Production~~116700~~orig~~1~~~~VDAS_SaleReports_TFE731-20_20051214_173045.xls
+953~~TFE731-20~~Production~~116723~~ORIG.~~1~~INITIAL VDAS~~VDAS_SaleReports_TFE731-20_20060304_100256.xls
+953~~TFE731-20~~Production~~P-116725~~ORIG~~1~~INITIAL VDAS~~VDAS_SaleReports_TFE731-20_20060306_181238.xls
+953~~TFE731-20~~Production~~116725~~ORIG~~1~~INITIAL VDAS~~VDAS_SaleReports_TFE731-20_20060306_182556.xls
+953~~TFE731-20~~Production~~116725~~ORIG~~1~~INITIAL VDAS~~VDAS_SaleReports_TFE731-20_20060306_183917.xls
+953~~TFE731-20~~Production~~116727~~ONE~~1~~~~VDAS_SaleReports_TFE731-20_20060319_034053.xls
+953~~TFE731-20~~Production~~116726~~ONE~~1~~VDAS RERUN FOR FCU CHANGE~~VDAS_SaleReports_TFE731-20_20060319_133009.xls
+953~~TFE731-20~~Production~~P-116728~~ORIG~~1~~INITIAL VDAS~~VDAS_SaleReports_TFE731-20_20060319_172113.xls
+953~~TFE731-20~~Production~~116728~~ORIG~~1~~~~VDAS_SaleReports_TFE731-20_20060320_010240.xls
+953~~TFE731-20~~Production~~116728~~ORIG.~~1~~1ST SOLUTION~~VDAS_SaleReports_TFE731-20_20060320_075105.xls
+953~~TFE731-20~~Production~~P-116736~~ORIG~~1~~SALE VDAS~~VDAS_SaleReports_TFE731-20_20060407_190138.xls
+953~~TFE731-20~~Overhaul~~116442~~ORIG~~1~~~~VDAS_SaleReports_TFE731-20_20060412_014818.xls
+954~~TFE731-20~~Production~~116737~~ORIG~~1~~~~VDAS_SaleReports_TFE731-20_20060412_212746.xls
+954~~TFE731-20~~Production~~116742~~ORIG.~~1~~INITIAL VDAS~~VDAS_SaleReports_TFE731-20_20060502_101617.xls
+953~~TFE731-20~~Overhaul~~115245~~ORIO~~1~~~~VDAS_SaleReports_TFE731-20_20060506_024538.xls
+954~~TFE731-20~~Production~~116751~~TWO~~1~~VDAS AFTER PLANETARY CHANGE #2~~VDAS_SaleReports_TFE731-20_20060517_185305.xls
+954~~TFE731-20~~Production~~116751~~TWO~~1~~VDAS AFTER PLANETARY CHANGE #2~~VDAS_SaleReports_TFE731-20_20060517_190232.xls
+954~~TFE731-20~~Production~~116753~~ORIG.~~1~~INITIAL VDAS~~VDAS_SaleReports_TFE731-20_20060518_080245.xls
+954~~TFE731-20~~Production~~116755~~or~~1~~INITIAL VDAS~~VDAS_SaleReports_TFE731-20_20060522_124049.xls
+954~~TFE731-20~~Overhaul~~116256~~OR~~1~~~~VDAS_SaleReports_TFE731-20_20060604_054554.xls
+953~~TFE731-20_Ch5~~Production~~116736~~ORIG.~~1~~ENGINEERING TEST (MANUAL MODE)~~VDAS_SaleReports_TFE731-20_Ch5_20060407_161231.xls
+953~~TFE731-2C~~Overhaul~~89417~~1~~1~~~~VDAS_SaleReports_TFE731-2C_20051130_044732.xls
+953~~TFE731-2C~~Overhaul~~89417~~1~~1~~~~VDAS_SaleReports_TFE731-2C_20051130_085948.xls
+953~~TFE731-2C~~Overhaul~~89417~~1~~1~~Rereduced with correct tracking filter speed factors~~VDAS_SaleReports_TFE731-2C_20051130_091139.xls
+953~~TFE731-2~~Overhaul~~89417~~1~~1~~~~VDAS_SaleReports_TFE731-2_20051130_010140.xls
+953~~TFE731-2~~Overhaul~~89417~~1~~1~~Rereduced with correct tracking filter speed factors~~VDAS_SaleReports_TFE731-2_20051130_092624.xls
+954~~TFE731-2~~Overhaul~~369852~~1~~1~~test ~~VDAS_SaleReports_TFE731-2_20051130_151556.xls
+953~~TFE731-2~~Overhaul~~99588~~L/F~~1~~~~VDAS_SaleReports_TFE731-2_20060406_000751.xls
+953~~TFE731-2~~Overhaul~~89145~~orig~~1~~initial vdas~~VDAS_SaleReports_TFE731-2_20060426_090029.xls
+953~~TFE731-2~~Overhaul~~89145~~orig~~1~~-2 #3 / -6 #4 / -3 #5 / 9.1g @ 144 Deg.~~VDAS_SaleReports_TFE731-2_20060426_120741.xls
+953~~TFE731-2~~Overhaul~~89145~~orig~~1~~-2 #3 / -6 #4 / -3 #5 / 9.1g @ 144 Deg.~~VDAS_SaleReports_TFE731-2_20060426_140401.xls
+953~~TFE731-2~~Overhaul~~99292~~orig~~1~~vdas after trim balance~~VDAS_SaleReports_TFE731-2_20060427_183258.xls
+954~~TFE731-2~~Overhaul~~74370~~Orig~~1~~Initial VDAS~~VDAS_SaleReports_TFE731-2_20060515_092749.xls
+954~~TFE731-2~~Overhaul~~P89748~~ORIG~~one~~Initial VDAS~~VDAS_SaleReports_TFE731-2_20060516_125617.xls
+954~~TFE731-2~~Overhaul~~P89748~~ORIG~~one~~Initial VDAS~~VDAS_SaleReports_TFE731-2_20060516_151736.xls
+954~~TFE731-2~~Production~~100312~~ORIG~~1~~~~VDAS_SaleReports_TFE731-2_20060606_045836.xls
+954~~TFE731-3A~~Overhaul~~85142~~orig~~1~~~~VDAS_SaleReports_TFE731-3A_20060327_214758.xls
+954~~TFE731-3A~~Overhaul~~85142~~orig~~1~~~~VDAS_SaleReports_TFE731-3A_20060327_233105.xls
+954~~TFE731-3A~~Overhaul~~85135~~ORIG A~~1~~~~VDAS_SaleReports_TFE731-3A_20060330_042205.xls
+954~~TFE731-3A~~Overhaul~~85135~~ORIG A~~1~~~~VDAS_SaleReports_TFE731-3A_20060330_083730.xls
+954~~TFE731-3A~~Overhaul~~85135~~RIG A~~1~~~~VDAS_SaleReports_TFE731-3A_20060330_085705.xls
+954~~TFE731-3A~~Overhaul~~85135~~RIG A~~1~~~~VDAS_SaleReports_TFE731-3A_20060330_090732.xls
+954~~TFE731-3A~~Overhaul~~85135~~RIG A~~1~~~~VDAS_SaleReports_TFE731-3A_20060330_091950.xls
+954~~TFE731-3A~~Overhaul~~85135~~RIG A~~1~~~~VDAS_SaleReports_TFE731-3A_20060330_095912.xls
+954~~TFE731-3C~~Overhaul~~87275~~orig~~1~~~~VDAS_SaleReports_TFE731-3C_20060119_015550.xls
+953~~TFE731-3C~~Overhaul~~85218~~orig~~1~~initial vdas~~VDAS_SaleReports_TFE731-3C_20060428_102539.xls
+953~~TFE731-3C~~Overhaul~~85218~~orig~~1~~-11 #6 / -2 #7 / -2 #8 / 4.5g @ 280 Deg.~~VDAS_SaleReports_TFE731-3C_20060428_132550.xls
+954~~TFE731-3~~Overhaul~~83222~~orig~~1~~~~VDAS_SaleReports_TFE731-3_20060301_175628.xls
+954~~TFE731-3~~Overhaul~~76304~~orig~~1~~~~VDAS_SaleReports_TFE731-3_20060329_222423.xls
+967~~TFE731-40~~Development~~9401~~36~~1~~~~VDAS_SaleReports_TFE731-40_20050920_101454.xls
+967~~TFE731-40~~Development~~9401~~36a~~1~~~~VDAS_SaleReports_TFE731-40_20051121_123413.xls
+967~~TFE731-40~~Development~~9401~~36a~~1~~~~VDAS_SaleReports_TFE731-40_20051130_154951.xls
+953~~TFE731-40~~Production~~126109~~ORIG~~1~~~~VDAS_SaleReports_TFE731-40_20060413_010015.xls
+954~~TFE731-40~~Overhaul~~115175~~orig~~1~~~~VDAS_SaleReports_TFE731-40_20060504_152436.xls
+954~~TFE731-40~~Overhaul~~115175~~orig~~1~~~~VDAS_SaleReports_TFE731-40_20060504_175134.xls
+953~~TFE731-40~~Overhaul~~115245~~ORIGINAL~~1~~~~VDAS_SaleReports_TFE731-40_20060506_000335.xls
+953~~TFE731-40~~Overhaul~~115245~~ORIGINAL~~1~~~~VDAS_SaleReports_TFE731-40_20060506_003601.xls
+953~~TFE731-40~~Overhaul~~115245~~ORIGINAL~~1~~~~VDAS_SaleReports_TFE731-40_20060506_004217.xls
+953~~TFE731-40~~Overhaul~~115245~~ORIGINAL~~1~~~~VDAS_SaleReports_TFE731-40_20060506_005054.xls
+953~~TFE731-40~~Overhaul~~115245~~ORIGINAL~~1~~~~VDAS_SaleReports_TFE731-40_20060506_010529.xls
+953~~TFE731-40~~Overhaul~~115245~~Orig~~1~~~~VDAS_SaleReports_TFE731-40_20060506_044004.xls
+953~~TFE731-40~~Overhaul~~115245~~Orig~~1~~~~VDAS_SaleReports_TFE731-40_20060506_045644.xls
+953~~TFE731-40~~Overhaul~~115245~~Orig~~1~~~~VDAS_SaleReports_TFE731-40_20060506_061900.xls
+953~~TFE731-40~~Overhaul~~115245~~Orig~~1~~~~VDAS_SaleReports_TFE731-40_20060506_062337.xls
+953~~TFE731-40~~Overhaul~~115245~~Orig~~1~~~~VDAS_SaleReports_TFE731-40_20060506_063331.xls
+953~~TFE731-40~~Overhaul~~115245~~Orig~~1~~~~VDAS_SaleReports_TFE731-40_20060506_063723.xls
+953~~TFE731-40~~Overhaul~~115245~~Orig~~1~~~~VDAS_SaleReports_TFE731-40_20060506_064154.xls
+953~~TFE731-40~~Overhaul~~115245~~Orig~~1~~~~VDAS_SaleReports_TFE731-40_20060506_070813.xls
+953~~TFE731-40~~Production~~126113~~or~~1~~Initial VDAS ~~VDAS_SaleReports_TFE731-40_20060509_110340.xls
+953~~TFE731-40~~Production~~126113~~or~~1~~Initial VDAS ~~VDAS_SaleReports_TFE731-40_20060509_135702.xls
+967~~TFE731-40~~Production~~1~~orig~~1~~Replay~~VDAS_SaleReports_TFE731-40_20060516_092032.xls
+967~~TFE731-40~~Development~~9401~~37A~~1~~~~VDAS_SaleReports_TFE731-40_20060517_130655.xls
+967~~TFE731-40~~Development~~9406~~19~~1~~~~VDAS_SaleReports_TFE731-40_20060615_214928.xls
+967~~TFE731-40~~Development~~9406~~19a~~1~~~~VDAS_SaleReports_TFE731-40_20060714_143241.xls
+953~~TFE731-40~~Production~~115445~~ORIG~~1~~~~VDAS_SaleReports_TFE731-40_20060714_175553.xls
+953~~TFE731-40~~Overhaul~~115278~~ORIG~~ONE~~~~VDAS_SaleReports_TFE731-40_20060722_042124.xls
+954~~TFE731-40~~Production~~126123~~ORIG~~1~~INITIAL RUN~~VDAS_SaleReports_TFE731-40_20060814_100018.xls
+954~~TFE731-40~~Production~~126123~~ORIG~~1~~INITIAL RUN~~VDAS_SaleReports_TFE731-40_20060814_115233.xls
+954~~TFE731-40~~Production~~126123~~ORIG~~1~~INITIAL RUN~~VDAS_SaleReports_TFE731-40_20060814_120709.xls
+967~~TFE731-40~~Development~~9406~~19a~~1~~~~VDAS_SaleReports_TFE731-40_20060815_141437.xls
+967~~TFE731-40~~Development~~9406~~19A~~1~~~~VDAS_SaleReports_TFE731-40_20060815_160316.xls
+967~~TFE731-40~~Development~~9406~~19a~~1~~~~VDAS_SaleReports_TFE731-40_20060825_202716.xls
+967~~TFE731-40~~Development~~9406~~19a~~1~~~~VDAS_SaleReports_TFE731-40_20060825_233134.xls
+967~~TFE731-40~~Development~~9406~~19A~~1~~~~VDAS_SaleReports_TFE731-40_20060826_105430.xls
+967~~TFE731-40~~Development~~9406~~19A~~1~~~~VDAS_SaleReports_TFE731-40_20060826_121437.xls
+967~~TFE731-40~~Development~~9406~~19A~~1~~~~VDAS_SaleReports_TFE731-40_20060826_133711.xls
+967~~TFE731-40~~Development~~9406~~19A~~1~~~~VDAS_SaleReports_TFE731-40_20060826_145750.xls
+967~~TFE731-40~~Development~~9406~~19A~~1~~~~VDAS_SaleReports_TFE731-40_20060826_161609.xls
+967~~TFE731-40~~Development~~9406~~19A~~1~~~~VDAS_SaleReports_TFE731-40_20060826_165119.xls
+967~~TFE731-40~~Development~~9406~~19A~~1~~~~VDAS_SaleReports_TFE731-40_20060826_171341.xls
+967~~TFE731-40~~Development~~9406~~19A~~1~~~~VDAS_SaleReports_TFE731-40_20060826_183533.xls
+967~~TFE731-40~~Development~~9406~~19A~~1~~~~VDAS_SaleReports_TFE731-40_20060826_195216.xls
+967~~TFE731-40~~Development~~9406~~19A~~1~~~~VDAS_SaleReports_TFE731-40_20060826_211520.xls
+967~~TFE731-40~~Development~~9406~~19A~~1~~~~VDAS_SaleReports_TFE731-40_20060826_223204.xls
+967~~TFE731-40~~Development~~9406~~19A~~1~~~~VDAS_SaleReports_TFE731-40_20060826_234446.xls
+967~~TFE731-40~~Development~~9406~~19A~~1~~~~VDAS_SaleReports_TFE731-40_20060827_010133.xls
+967~~TFE731-40~~Development~~9406~~19A~~1~~~~VDAS_SaleReports_TFE731-40_20060827_021439.xls
+967~~TFE731-40~~Development~~9406~~19A~~1~~~~VDAS_SaleReports_TFE731-40_20060827_034507.xls
+967~~TFE731-40~~Development~~9406~~19A~~1~~~~VDAS_SaleReports_TFE731-40_20060827_045237.xls
+967~~TFE731-40~~Development~~9406~~19A~~1~~~~VDAS_SaleReports_TFE731-40_20060827_060537.xls
+967~~TFE731-40~~Development~~9406~~19A~~1~~~~VDAS_SaleReports_TFE731-40_20060827_073649.xls
+967~~TFE731-40~~Development~~9406~~19A~~1~~~~VDAS_SaleReports_TFE731-40_20060827_085804.xls
+967~~TFE731-40~~Development~~9406~~19A~~1~~~~VDAS_SaleReports_TFE731-40_20060827_102422.xls
+967~~TFE731-40~~Development~~9406~~19A~~1~~~~VDAS_SaleReports_TFE731-40_20060827_114529.xls
+967~~TFE731-40~~Development~~9406~~19A~~1~~~~VDAS_SaleReports_TFE731-40_20060827_131501.xls
+967~~TFE731-40~~Development~~9406~~19A~~1~~~~VDAS_SaleReports_TFE731-40_20060827_144242.xls
+967~~TFE731-40~~Development~~9406~~19A~~1~~~~VDAS_SaleReports_TFE731-40_20060827_161815.xls
+967~~TFE731-40_Ch7~~Development~~9406~~19A~~1~~~~VDAS_SaleReports_TFE731-40_Ch7_20060818_185028.xls
+954~~TFE731-4~~Repair~~102323~~LFS~~1~~~~VDAS_SaleReports_TFE731-4_20060126_182458.xls
+954~~TFE731-4~~Overhaul~~102323~~L/F/S~~2~~For Sale~~VDAS_SaleReports_TFE731-4_20060127_180518.xls
+953~~TFE731-4~~Overhaul~~102226~~ORIG A~~1~~~~VDAS_SaleReports_TFE731-4_20060519_042046.xls
+953~~TFE731-4~~Overhaul~~102226~~Orig.A~~1~~INITIAL VDAS~~VDAS_SaleReports_TFE731-4_20060519_124255.xls
+963~~TFE731-50~~Development~~122101~~2~~1~~~~VDAS_SaleReports_TFE731-50_20050825_104309.xls
+963~~TFE731-50~~Development~~122101~~2~~1~~prod. config~~VDAS_SaleReports_TFE731-50_20050827_112109.xls
+953~~TFE731-50~~Production~~P-122105~~ORIG~~1~~INITIAL VDAS~~VDAS_SaleReports_TFE731-50_20060320_213855.xls
+963~~TFE731-50~~Development~~122105~~1~~1~~~~VDAS_SaleReports_TFE731-50_20060324_223716.xls
+963~~TFE731-50~~Production~~122105~~1~~1~~VDAS Final~~VDAS_SaleReports_TFE731-50_20060326_075629.xls
+963~~TFE731-50~~Development~~122105~~orig~~1~~final run~~VDAS_SaleReports_TFE731-50_20060327_063724.xls
+963~~TFE731-50~~Development~~122104~~3~~1~~~~VDAS_SaleReports_TFE731-50_20060420_131009.xls
+963~~TFE731-50~~Development~~122104~~3~~1~~~~VDAS_SaleReports_TFE731-50_20060425_125338.xls
+963~~TFE731-50~~Development~~122104~~3~~1~~~~VDAS_SaleReports_TFE731-50_20060511_054116.xls
+963~~TFE731-50_Ch7~~Production~~Default~~orig~~1~~Gold Standards~~VDAS_SaleReports_TFE731-50_Ch7_20051111_131825.xls
+963~~TFE731-50_Ch7~~Development~~9405~~16~~1~~~~VDAS_SaleReports_TFE731-50_Ch7_20051114_140407.xls
+963~~TFE731-50_Ch7~~Development~~Default~~Orig~~1~~Fan vib test~~VDAS_SaleReports_TFE731-50_Ch7_20051115_085447.xls
+963~~TFE731-50_Ch7~~Development~~9405~~16~~1~~Fan vib test with .03 eccx ~~VDAS_SaleReports_TFE731-50_Ch7_20051115_100648.xls
+963~~TFE731-50_Ch7~~Development~~9405~~16~~1~~2nd Fan vib test with .03 eccx ~~VDAS_SaleReports_TFE731-50_Ch7_20051115_103950.xls
+963~~TFE731-50_Ch7~~Development~~9405~~16~~1~~ 1st Fan vib test with .044 eccx ~~VDAS_SaleReports_TFE731-50_Ch7_20051115_112604.xls
+963~~TFE731-50_Ch7~~Development~~9405~~16~~1~~2nd Fan vib test with .044 eccx ~~VDAS_SaleReports_TFE731-50_Ch7_20051115_114225.xls
+963~~TFE731-50_Ch7~~Development~~9405~~16~~1~~Post VDAS~~VDAS_SaleReports_TFE731-50_Ch7_20051115_130839.xls
+920~~TFE731-50_Ch7~~Production~~1~~orig~~1~~Rereduction~~VDAS_SaleReports_TFE731-50_Ch7_20051207_143955.xls
+963~~TFE731-50_Ch7~~Production~~1~~orig~~1~~Rereduction~~VDAS_SaleReports_TFE731-50_Ch7_20051208_102838.xls
+963~~TFE731-50_Ch7~~Production~~1~~orig~~1~~Rereduction~~VDAS_SaleReports_TFE731-50_Ch7_20051208_132255.xls
+963~~TFE731-50_Ch7~~Production~~1~~orig~~1~~Rereduction~~VDAS_SaleReports_TFE731-50_Ch7_20051208_134804.xls
+963~~TFE731-50_Ch7~~Production~~1~~orig~~1~~Rereduction~~VDAS_SaleReports_TFE731-50_Ch7_20051208_152002.xls
+963~~TFE731-50_Ch7~~Production~~1~~orig~~1~~Rereduction~~VDAS_SaleReports_TFE731-50_Ch7_20051208_155137.xls
+963~~TFE731-50_Ch7~~Production~~1~~orig~~1~~Rereduction~~VDAS_SaleReports_TFE731-50_Ch7_20051209_075049.xls
+920~~TFE731-50_Ch7~~Production~~1~~orig~~1~~Rereduction~~VDAS_SaleReports_TFE731-50_Ch7_20051209_083013.xls
+920~~TFE731-50_Ch7~~Production~~1~~orig~~1~~Rereduction~~VDAS_SaleReports_TFE731-50_Ch7_20051209_090800.xls
+920~~TFE731-50_Ch7~~Production~~1~~orig~~1~~Rereduction~~VDAS_SaleReports_TFE731-50_Ch7_20051209_103620.xls
+920~~TFE731-50_Ch7~~Production~~1~~orig~~1~~Rereduction~~VDAS_SaleReports_TFE731-50_Ch7_20051209_105657.xls
+920~~TFE731-50_Ch7~~Production~~1~~orig~~1~~Rereduction~~VDAS_SaleReports_TFE731-50_Ch7_20051209_110634.xls
+920~~TFE731-50_Ch7~~Production~~1~~orig~~1~~Rereduction~~VDAS_SaleReports_TFE731-50_Ch7_20051209_112155.xls
+963~~TFE731-50_Ch7~~Development~~122101~~4~~1~~~~VDAS_SaleReports_TFE731-50_Ch7_20051215_191804.xls
+963~~TFE731-50_Ch7~~Development~~122101~~4~~1~~Hyd. Pad and Gen. Installed~~VDAS_SaleReports_TFE731-50_Ch7_20051215_210448.xls
+963~~TFE731-50_Ch7~~Development~~122101~~3A~~1~~Baseline w/AC Inlet, H.Pump & Alt.~~VDAS_SaleReports_TFE731-50_Ch7_20051219_130950.xls
+963~~TFE731-50_Ch7~~Development~~122101~~4~~1~~.044 blade w/AC Inlet, H.Pump & Alt.~~VDAS_SaleReports_TFE731-50_Ch7_20051219_141404.xls
+963~~TFE731-50_Ch7~~Development~~122101~~4~~1~~After shake w/AC Inlet, H.Pump & Alt.~~VDAS_SaleReports_TFE731-50_Ch7_20051220_101336.xls
+963~~TFE731-50_Ch7~~Production~~1~~orig~~1~~rereduced~~VDAS_SaleReports_TFE731-50_Ch7_20051220_130909.xls
+963~~TFE731-50_Ch7~~Production~~1~~orig~~1~~~~VDAS_SaleReports_TFE731-50_Ch7_20060104_140534.xls
+963~~TFE731-50_Ch7~~Development~~1~~1~~1~~~~VDAS_SaleReports_TFE731-50_Ch7_20060109_143140.xls
+963~~TFE731-50_Ch7~~Development~~122101~~4~~1~~Baseline with a/c mounts alt, hyd pump & a/c inlet~~VDAS_SaleReports_TFE731-50_Ch7_20060109_145422.xls
+963~~TFE731-50_Ch7~~Development~~122101~~4~~1~~Baseline with a/c mounts alt, hyd pump & a/c inlet~~VDAS_SaleReports_TFE731-50_Ch7_20060109_155410.xls
+963~~TFE731-50_Ch7~~Development~~122101~~4~~1~~Baseline VDAS A/C Mounts, alt, hyd pump & A/C inlet~~VDAS_SaleReports_TFE731-50_Ch7_20060110_084536.xls
+963~~TFE731-50_Ch7~~Development~~122101~~4~~1~~Baseline with a/c mounts alt, hyd pump & a/c inlet, target max N1 = 16.5K~~VDAS_SaleReports_TFE731-50_Ch7_20060110_091146.xls
+963~~TFE731-50_Ch7~~Development~~122101~~4~~1~~.030 cgx blade, AC mounts, alt, hyd pump & AC inlet, target max N1 = 16.5K~~VDAS_SaleReports_TFE731-50_Ch7_20060110_103235.xls
+963~~TFE731-50_Ch7~~Development~~122101~~4~~1~~.044 Blade with a/c mounts alt, hyd pump & a/c inlet~~VDAS_SaleReports_TFE731-50_Ch7_20060110_111148.xls
+963~~TFE731-50_Ch7~~Development~~122101~~4~~1~~.044 Blade with a/c mounts alt, hyd pump & a/c inlet dwell at 6780 fan rpm~~VDAS_SaleReports_TFE731-50_Ch7_20060110_131432.xls
+963~~TFE731-50_Ch7~~Development~~122101~~4~~1~~.044 Blade with a/c mounts alt, hyd pump & a/c inlet~~VDAS_SaleReports_TFE731-50_Ch7_20060110_150019.xls
+963~~TFE731-50_Ch7~~Development~~122101~~4~~1~~Post fan vibration original fan blades with A/C mounts, alt, hyd pump &A/C inlet~~VDAS_SaleReports_TFE731-50_Ch7_20060110_164514.xls
+963~~TFE731-50_Ch7~~Development~~122101~~7~~1~~Baseline before P25 Tube Strain Test~~VDAS_SaleReports_TFE731-50_Ch7_20060411_125818.xls
+963~~TFE731-50_Ch7~~Development~~122102~~8~~1~~~~VDAS_SaleReports_TFE731-50_Ch7_20060718_150116.xls
+963~~TFE731-50_Ch7~~Development~~122101~~8~~1~~post endurance~~VDAS_SaleReports_TFE731-50_Ch7_20060720_120306.xls
+963~~TFE731-50_Ch8~~Development~~122101~~6~~1~~Pre-Test Check Out~~VDAS_SaleReports_TFE731-50_Ch8_20060224_135226.xls
+963~~TFE731-50_Ch8~~Development~~1~~1~~1~~~~VDAS_SaleReports_TFE731-50_Ch8_20060227_083655.xls
+963~~TFE731-50_Ch8~~Development~~122101~~6~~1~~~~VDAS_SaleReports_TFE731-50_Ch8_20060227_100732.xls
+963~~TFE731-50_Ch8~~Other~~122101~~6~~1~~Baseline pre-icing test~~VDAS_SaleReports_TFE731-50_Ch8_20060306_122252.xls
+963~~TFE731-50_Ch8~~Other~~122101~~6~~2~~Verification of fan vibes for icing dwell test~~VDAS_SaleReports_TFE731-50_Ch8_20060306_144737.xls
+963~~TFE731-50_Ch8~~Other~~122101~~6~~3~~PAP blade removed post icing dwell test~~VDAS_SaleReports_TFE731-50_Ch8_20060306_200909.xls
+963~~TFE731-50_Santan~~Production~~122101~~orig~~1~~With LP imbalance installed~~VDAS_SaleReports_TFE731-50_Santan_20050906_092524.xls
+953~~TFE731-5A~~Other~~101102~~SIX~~1~~TEST #1~~VDAS_SaleReports_TFE731-5A_20060227_100309.xls
+953~~TFE731-5A~~Other~~101102~~SIX~~2~~TEST #2~~VDAS_SaleReports_TFE731-5A_20060227_103515.xls
+953~~TFE731-5A~~Other~~101102~~6~~1~~initial preformace VDAS~~VDAS_SaleReports_TFE731-5A_20060508_192316.xls
+954~~TFE731-5B~~Production~~129184~~ONE~~1~~~~VDAS_SaleReports_TFE731-5B_20051206_030444.xls
+954~~TFE731-5B~~Production~~P129184~~ONE~~2~~~~VDAS_SaleReports_TFE731-5B_20051206_074823.xls
+953~~TFE731-5B~~Green~~129185~~ONE~~1~~~~VDAS_SaleReports_TFE731-5B_20051207_043545.xls
+954~~TFE731-5B~~Production~~P-129192~~ORIG~~1~~INITIAL VDAS~~VDAS_SaleReports_TFE731-5B_20060204_145903.xls
+954~~TFE731-5B~~Production~~P-129193~~ORIG~~1~~INTIAL VDAS~~VDAS_SaleReports_TFE731-5B_20060205_131208.xls
+954~~TFE731-5B~~Production~~129194~~ORG~~1~~~~VDAS_SaleReports_TFE731-5B_20060213_024029.xls
+954~~TFE731-5B~~Production~~129194~~orig~~1~~~~VDAS_SaleReports_TFE731-5B_20060213_094141.xls
+954~~TFE731-5B~~Production~~129194~~orig~~1~~~~VDAS_SaleReports_TFE731-5B_20060213_115829.xls
+954~~TFE731-5B~~Development~~Serial~~orig~~1~~Gold standard run - January 2006~~VDAS_SaleReports_TFE731-5B_20060214_095118.xls
+953~~TFE731-5B~~Production~~129208~~ORG~~1~~~~VDAS_SaleReports_TFE731-5B_20060326_051403.xls
+953~~TFE731-5B~~Production~~129209~~ORIG~~1~~~~VDAS_SaleReports_TFE731-5B_20060327_013927.xls
+953~~TFE731-5B~~Production~~129209~~ORIG~~1~~~~VDAS_SaleReports_TFE731-5B_20060327_022910.xls
+953~~TFE731-5B~~Production~~129209~~ORIG~~1~~~~VDAS_SaleReports_TFE731-5B_20060327_042633.xls
+967~~TFE731-5B~~Development~~98157~~ora~~1~~~~VDAS_SaleReports_TFE731-5B_20060410_130953.xls
+967~~TFE731-5B~~Overhaul~~98157c~~org a~~1~~~~VDAS_SaleReports_TFE731-5B_20060411_093013.xls
+954~~TFE731-5B~~Production~~129220~~orig~~1~~initial~~VDAS_SaleReports_TFE731-5B_20060425_092420.xls
+954~~TFE731-5B~~Production~~P129221~~Orig~~1~~~~VDAS_SaleReports_TFE731-5B_20060425_213328.xls
+954~~TFE731-5B~~Production~~P129221~~Orig~~1~~~~VDAS_SaleReports_TFE731-5B_20060425_223641.xls
+953~~TFE731-5B~~Production~~129228~~ORIG~~1~~~~VDAS_SaleReports_TFE731-5B_20060517_005414.xls
+953~~TFE731-5B~~Production~~129228~~ORIG~~1~~-9 on #3, -11 on #4, -10 on #5; 7.9G at 97 deg~~VDAS_SaleReports_TFE731-5B_20060517_024008.xls
+953~~TFE731-5B~~Production~~129238~~orig~~1~~initial vdas~~VDAS_SaleReports_TFE731-5B_20060608_100312.xls
+953~~TFE731-5B~~Production~~129238~~orig~~1~~-2 #6 / -2 #7 / -3 #8 / 7.4g @ 224 deg.~~VDAS_SaleReports_TFE731-5B_20060608_121827.xls
+953~~TFE731-5B~~Production~~129257~~ORIG~~ONE~~-8 ON #2, -10 ON #3, -10 ON #4~~VDAS_SaleReports_TFE731-5B_20060727_042344.xls
+954~~TFE731-5R~~Production~~91733~~ORIG~~ONE~~~~VDAS_SaleReports_TFE731-5R_20060407_041206.xls
+954~~TFE731-5R~~Production~~91733~~ORIG~~ONE~~~~VDAS_SaleReports_TFE731-5R_20060407_052138.xls
+954~~TFE731-5R~~Production~~P91733~~ORIG~~1~~~~VDAS_SaleReports_TFE731-5R_20060407_181557.xls
+954~~TFE731-5R~~Overhaul~~91230~~lfs~~1~~Initial~~VDAS_SaleReports_TFE731-5R_20060510_104106.xls
+953~~TFE731-5~~Other~~101102~~SIX~~1~~~~VDAS_SaleReports_TFE731-5_20051208_233626.xls
+953~~TFE731-5~~Other~~101102~~SIX~~1~~~~VDAS_SaleReports_TFE731-5_20051209_005946.xls
+954~~TFE731-5~~Repair~~P-91459~~ORIG~~1~~INITIAL VDAS~~VDAS_SaleReports_TFE731-5_20060128_170732.xls
+954~~TFE731-5~~Other~~101102~~six~~2~~~~VDAS_SaleReports_TFE731-5_20060531_013556.xls
+953~~TFE731-5~~Production~~129247~~ORIG~~1~~-2 ON #8, -11 ON #9,  -11 ON #10,  ~~VDAS_SaleReports_TFE731-5_20060626_235123.xls
+954~~TFE731-5~~Overhaul~~91249~~origa~~1~~~~VDAS_SaleReports_TFE731-5_20060712_025952.xls
+954~~TFE731-5~~Overhaul~~91249~~origa~~1~~-6 on #10~~VDAS_SaleReports_TFE731-5_20060712_043444.xls
+954~~TFE731-5~~Overhaul~~91249~~origa~~1~~-5 on #9, -10 on #10~~VDAS_SaleReports_TFE731-5_20060712_050527.xls
+953~~TFE731-5~~Production~~129256~~ORIG~~ONE~~~~VDAS_SaleReports_TFE731-5_20060726_024731.xls
+953~~TFE731-5~~Production~~129256~~ORIG~~ONE~~-10 ON #4, -9 ON #5~~VDAS_SaleReports_TFE731-5_20060726_051331.xls
+953~~TFE731-5~~Production~~129257~~ORIG~~ONE~~-10 ON #2,-10 ON #3, -4 ON #4~~VDAS_SaleReports_TFE731-5_20060727_013250.xls
+953~~TFE731-5~~Production~~129257~~ORIG~~ONE~~-2 0N #2, -7 ON #3~~VDAS_SaleReports_TFE731-5_20060727_020118.xls
+953~~TFE731-5~~Production~~129257~~ORIG~~ONE~~-10 ON #2, -9 ON #3, -2 ON #4~~VDAS_SaleReports_TFE731-5_20060727_024117.xls
+953~~TFE731-5~~Production~~129257~~ORIG~~ONE~~-8 ON #2, -10 ON #3, -10 ON #4~~VDAS_SaleReports_TFE731-5_20060727_040723.xls
+954~~TFE731-60~~Production~~Default~~orig~~1~~Gold Standards~~VDAS_SaleReports_TFE731-60_20051109_093540.xls
+954~~TFE731-60~~Production~~112641~~orig~~1~~~~VDAS_SaleReports_TFE731-60_20051117_120917.xls
+954~~TFE731-60~~Production~~112641~~orig~~1~~Initial~~VDAS_SaleReports_TFE731-60_20051117_135451.xls
+954~~TFE731-60~~Production~~112641~~orig~~1~~-10@B8,..  9.g's@314~~VDAS_SaleReports_TFE731-60_20051117_160710.xls
+954~~TFE731-60~~Production~~112641~~orig~~1~~vdas after trim balance~~VDAS_SaleReports_TFE731-60_20051117_164902.xls
+954~~TFE731-60~~Development~~9408~~16~~1~~Gold Standards~~VDAS_SaleReports_TFE731-60_20051130_074849.xls
+954~~TFE731-60~~Repair~~112378~~org~~1~~~~VDAS_SaleReports_TFE731-60_20060131_161551.xls
+954~~TFE731-60~~Repair~~112378~~org~~1~~~~VDAS_SaleReports_TFE731-60_20060131_163258.xls
+954~~TFE731-60~~Production~~112658~~one~~1~~~~VDAS_SaleReports_TFE731-60_20060201_034014.xls
+954~~TFE731-60~~Production~~112658~~one~~1~~~~VDAS_SaleReports_TFE731-60_20060201_045744.xls
+954~~TFE731-60~~Production~~112658~~1~~1~~init vdas ~~VDAS_SaleReports_TFE731-60_20060201_221159.xls
+954~~TFE731-60~~Production~~112658~~1~~1~~-2 on #2, -5 on #3, -6 on #4~~VDAS_SaleReports_TFE731-60_20060202_003320.xls
+954~~TFE731-60~~Production~~112658~~1~~1~~-9 on #1, -6 on #2, -5 on #3~~VDAS_SaleReports_TFE731-60_20060202_014719.xls
+954~~TFE731-60~~Production~~112658~~1~~1~~-2 on #1, -11 on #2, -11 on #3~~VDAS_SaleReports_TFE731-60_20060202_022207.xls
+954~~TFE731-60~~Overhaul~~112363~~Orig.~~1~~INITIAL VDAS~~VDAS_SaleReports_TFE731-60_20060225_102327.xls
+954~~TFE731-60~~Production~~112663~~ORIG`~~1~~~~VDAS_SaleReports_TFE731-60_20060305_163543.xls
+954~~TFE731-60~~Production~~112664~~ORIG~~1~~~~VDAS_SaleReports_TFE731-60_20060307_042919.xls
+954~~TFE731-60~~Production~~112664~~ORIG~~1~~fINAL..-5@4, -8@6..8.0G'S@194DEG.~~VDAS_SaleReports_TFE731-60_20060307_071145.xls
+954~~TFE731-60~~Production~~112662~~ORIG~~1~~~~VDAS_SaleReports_TFE731-60_20060307_210031.xls
+954~~TFE731-60~~Production~~112664~~ORG~~1~~~~VDAS_SaleReports_TFE731-60_20060308_024544.xls
+954~~TFE731-60~~Production~~112665~~ORIG~~1~~FINAL~~VDAS_SaleReports_TFE731-60_20060308_134116.xls
+954~~TFE731-60~~Production~~112665~~ORIG~~1~~-11#1, -11#2, -11#3, -10#8 = 25.8G @ 25 DEG~~VDAS_SaleReports_TFE731-60_20060308_161331.xls
+954~~TFE731-60~~Production~~112665~~ORIG~~1~~-9#1, -7#2, -4#8 = 14.5G @ 8 DEG~~VDAS_SaleReports_TFE731-60_20060308_164202.xls
+954~~TFE731-60~~Production~~112665~~ORIG~~1~~-11#1, -11#2, -3#8 = 19.3G @ 17 DEG~~VDAS_SaleReports_TFE731-60_20060308_173034.xls
+954~~TFE731-60~~Production~~112665~~ORIG~~1~~-11#1, -11#2, -3#3 = 19.3G @ 28 DEG~~VDAS_SaleReports_TFE731-60_20060308_180708.xls
+954~~TFE731-60~~Production~~112665~~ORIG~~1~~CLOCKED SPINNER 180 DEG~~VDAS_SaleReports_TFE731-60_20060308_185800.xls
+954~~TFE731-60~~Production~~112665~~ORIG~~1~~-5#4, -11#5 ,-11#6, -11#7 = 24.5G @ 216 DEG~~VDAS_SaleReports_TFE731-60_20060308_201921.xls
+954~~TFE731-60~~Production~~112665~~ORIG~~1~~-6#4, -8#5, -11#6 = 18.0G @ 191 DEG~~VDAS_SaleReports_TFE731-60_20060308_203953.xls
+954~~TFE731-60~~Production~~112665~~ORIG~~1~~-4#4, -11#5, -10#6, -6#7 = 20.7G @ 207 DEG~~VDAS_SaleReports_TFE731-60_20060308_211610.xls
+954~~TFE731-60~~Production~~112665~~ORIG~~1~~-4#4, -10#5, -11#6, = 18.9G @ 195 DEG~~VDAS_SaleReports_TFE731-60_20060308_215739.xls
+954~~TFE731-60~~Production~~112665~~orig~~1~~~~VDAS_SaleReports_TFE731-60_20060309_160556.xls
+954~~TFE731-60~~Production~~112665~~Orig~~1~~~~VDAS_SaleReports_TFE731-60_20060309_183809.xls
+954~~TFE731-60~~Production~~112665~~orig~~1~~~~VDAS_SaleReports_TFE731-60_20060309_191258.xls
+954~~TFE731-60~~Production~~112665~~orig~~1~~~~VDAS_SaleReports_TFE731-60_20060309_210228.xls
+954~~TFE731-60~~Production~~112665~~orig~~1~~~~VDAS_SaleReports_TFE731-60_20060309_212138.xls
+954~~TFE731-60~~Production~~112665~~ORG~~1~~~~VDAS_SaleReports_TFE731-60_20060310_002931.xls
+954~~TFE731-60~~Production~~112665~~ORG~~1~~~~VDAS_SaleReports_TFE731-60_20060310_012700.xls
+954~~TFE731-60~~Production~~112665~~ORG~~1~~~~VDAS_SaleReports_TFE731-60_20060310_020558.xls
+954~~TFE731-60~~Production~~112665~~orig~~1~~~~VDAS_SaleReports_TFE731-60_20060310_072355.xls
+954~~TFE731-60~~Production~~112665~~orig~~1~~~~VDAS_SaleReports_TFE731-60_20060310_073657.xls
+954~~TFE731-60~~Production~~112665~~orig~~1~~~~VDAS_SaleReports_TFE731-60_20060310_074632.xls
+953~~TFE731-60~~Production~~P112666~~orig~~1~~~~VDAS_SaleReports_TFE731-60_20060310_211529.xls
+953~~TFE731-60~~Production~~112666~~ORIG~~1~~ #5 -5, #6 -6,  #7 -3~~VDAS_SaleReports_TFE731-60_20060311_010032.xls
+953~~TFE731-60~~Production~~112666~~ORIG~~1~~ #6 -9. #7 -3, #8 -5~~VDAS_SaleReports_TFE731-60_20060311_011347.xls
+954~~TFE731-60~~Production~~112673~~orig~~1~~~~VDAS_SaleReports_TFE731-60_20060328_183607.xls
+954~~TFE731-60~~Production~~112673~~orig~~1~~~~VDAS_SaleReports_TFE731-60_20060328_210356.xls
+954~~TFE731-60~~Production~~112679~~ORIG.~~1~~INITIAL VDAS~~VDAS_SaleReports_TFE731-60_20060428_102441.xls
+954~~TFE731-60~~Production~~112679~~ORIG~~1~~~~VDAS_SaleReports_TFE731-60_20060429_010107.xls
+954~~TFE731-60~~Production~~112679~~ORIG~~1~~~~VDAS_SaleReports_TFE731-60_20060429_040545.xls
+954~~TFE731-60~~Production~~112684~~ONE~~1~~INITIAL VDAS~~VDAS_SaleReports_TFE731-60_20060601_183541.xls
+954~~TFE731-60~~Production~~112684~~ONE~~1~~INITIAL VDAS~~VDAS_SaleReports_TFE731-60_20060601_204827.xls
+954~~TFE731-60~~Production~~112684~~ONE~~1~~INITIAL VDAS~~VDAS_SaleReports_TFE731-60_20060601_210522.xls
+954~~TFE731-60~~Overhaul~~112301~~ORIG~~1~~INITIAL VDAS~~VDAS_SaleReports_TFE731-60_20060602_182941.xls
+954~~TFE731-60~~Overhaul~~112301~~ORIG~~1~~INITIAL VDAS~~VDAS_SaleReports_TFE731-60_20060602_185622.xls
+953~~TFE731-60~~Production~~112689~~Orig~~1~~-5 on #3, -4 on #4, -5 on #5, -2 on #6~~VDAS_SaleReports_TFE731-60_20060612_004646.xls
+953~~TFE731-60~~Overhaul~~112295~~ORIG~~1~~~~VDAS_SaleReports_TFE731-60_20060620_205118.xls
+953~~TFE731-60~~Overhaul~~112295~~ORIG~~1~~~~VDAS_SaleReports_TFE731-60_20060620_220340.xls
+953~~TFE731-60~~Overhaul~~112295~~ORIG~~1~~ORIGINAL FAN REINSTALLED~~VDAS_SaleReports_TFE731-60_20060622_020826.xls
+953~~TFE731-60~~Production~~112697~~orig~~1~~~~VDAS_SaleReports_TFE731-60_20060628_045208.xls
+953~~TFE731-60_Ch6~~Development~~112385~~orig~~1~~2 accelerometers at transfer gearbox~~VDAS_SaleReports_TFE731-60_Ch6_20060816_104652.xls
+953~~TFE731-60_Ch6~~Development~~112385~~orig~~1~~2 accelerometers at transfer gearbox~~VDAS_SaleReports_TFE731-60_Ch6_20060816_112039.xls
+953~~TFE731-60_Ch6~~Development~~112385~~orig~~1~~2 accelerometers at transfer gearbox~~VDAS_SaleReports_TFE731-60_Ch6_20060816_114915.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060905_095118.xls
+954~~TFE731-20~~Production~~116791~~001~~001~~sale vdas ~~VDAS_SaleReports_TFE731-20_20060905_175217.xls
+954~~CFE738~~Overhaul~~105500~~orig~~1~~~~VDAS_SaleReports_CFE738_20060906_065203.xls
+954~~CFE738~~Overhaul~~105500~~orig~~1~~~~VDAS_SaleReports_CFE738_20060906_074312.xls
+954~~CFE738~~Overhaul~~105500~~orig~~1~~~~VDAS_SaleReports_CFE738_20060906_085101.xls
+954~~CFE738~~Overhaul~~105500~~orig~~1~~~~VDAS_SaleReports_CFE738_20060906_085943.xls
+954~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060906_115804.xls
+967~~AS907~~Development~~Serial~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060901_080517.xls
+954~~AS907~~Production~~1~~orig~~1~~Gold standard run - March 2006~~VDAS_SaleReports_AS907_20060908_084100.xls
+954~~TFE731-5A~~Other~~P101102~~SIX~~1~~Corr VDAS #1~~VDAS_SaleReports_TFE731-5A_20060911_091216.xls
+954~~TFE731-5A~~Other~~P101102~~SIX~~1~~Corr VDAS #1~~VDAS_SaleReports_TFE731-5A_20060911_102415.xls
+953~~CFE738~~Development~~105104~~14a3~~1~~~~VDAS_SaleReports_CFE738_20060906_143119.xls
+953~~TFE731-3~~Overhaul~~76465~~lfs~~1~~-9 #8 / 7.8g @ 317 deg.~~VDAS_SaleReports_TFE731-3_20060912_091350.xls
+967~~TFE731-40~~Development~~9406~~19A~~1~~POST AMT VDAS~~VDAS_SaleReports_TFE731-40_20060912_092729.xls
+953~~TFE731-20~~Production~~116794~~Orig.~~1~~INITIAL VDAS~~VDAS_SaleReports_TFE731-20_20060914_103752.xls
+953~~TFE731-20~~Production~~116794~~Orig.~~1~~INITIAL VDAS~~VDAS_SaleReports_TFE731-20_20060914_130047.xls
+953~~TFE731-5B~~Production~~129284~~ORIG~~1~~INITIAL ACCEL VDAS~~VDAS_SaleReports_TFE731-5B_20060920_071817.xls
+953~~TFE731-5B~~Production~~129284~~ORIG~~1~~ENGINEERING DECEL VDAS~~VDAS_SaleReports_TFE731-5B_20060920_074018.xls
+953~~TFE731-5B~~Production~~129284~~ORIG~~1~~-2 #5 / -2 #6 / -11 #7 / 4.7g @ 169 deg.~~VDAS_SaleReports_TFE731-5B_20060920_094156.xls
+953~~TFE731-5B~~Production~~129284~~ORIG~~1~~-2 #5 / -2 #6 / -11 #7 / 4.7g @ 169 deg.~~VDAS_SaleReports_TFE731-5B_20060920_095343.xls
+953~~TFE731-5B~~Production~~129285~~ORIG~~1~~~~VDAS_SaleReports_TFE731-5B_20060921_015758.xls
+954~~TFE731-60~~Production~~112711~~ORIG~~1~~~~VDAS_SaleReports_TFE731-60_20060925_221738.xls
+954~~TFE731-60~~Production~~112717~~1~~1~~~~VDAS_SaleReports_TFE731-60_20060930_111713.xls
+953~~CFE738~~Overhaul~~105297~~LFS~~1~~INITIAL VDAS~~VDAS_SaleReports_CFE738_20061003_104607.xls

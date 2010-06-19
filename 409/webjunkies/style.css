@@ -1,0 +1,514 @@
+body
+{
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+  	background-color: #F6F6F6;
+}
+
+#main
+{
+	position: relative;
+	width: 705px;
+	height: 500px;
+	margin: 0 auto; 
+ 	padding: 0 0 0 2px;
+	background-image: url("images/shadow.gif");
+	padding-right: 5px;
+	background-repeat: no-repeat;
+	text-align: left;
+}
+
+#logo
+{
+	text-align: left;
+}
+
+#breadcrumbs
+{
+	position: relative;
+	top: 50px;
+	left: 265px;
+	width: 430px;
+	text-align: right;
+}
+
+
+#nav
+{
+	width: 700px;
+	height: 25px;
+	background-color: #666666;
+}
+
+#nav ul
+{
+	width: 700px;
+	padding: 0px;
+	margin: 0px;
+}
+
+#nav ul li
+{
+	float: left;
+	list-style-type: none;
+	text-align: center;
+	font-family: Helvetica;
+	font-size: 14px;
+	color: white;
+	width: 139px;
+	padding-top: 5px;
+	height: 20px;
+	border-right-style: solid;
+	border-width: 1px;
+	cursor: pointer;
+}
+
+#nav a
+{
+	color: white;
+	text-decoration: none;
+}
+
+#subnav
+{
+	width: 700px;
+	height: 25px;
+	background-color: #6BC0DD;
+	margin-top: 3px;
+  	text-align: center;
+}
+
+#subnav ul
+{
+	width: 700px;
+	padding: 0px;
+	margin: 0px;
+}
+
+#subnav ul li
+{
+	float: left;
+	list-style-type: none;
+	text-align: center;
+	font-family: Helvetica;
+
+	font-size: 14px;
+	color: white;
+	width: 150px;
+	padding-top: 5px;
+	height: 20px;
+}
+
+#subnav a
+{
+	color: white;
+	text-decoration: none;
+}
+
+#subnav a:hover
+{
+	color: #777777;
+}
+
+#content
+{
+	position: relative;
+	width: 700px;
+	height: 350px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: justify;
+	overflow: auto;
+}
+
+#content a:hover
+{
+  text-decoration: underline;
+}
+
+#footer
+{
+	position: relative;
+	top: 15px;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+
+}
+
+#footer a:hover
+{
+	text-decoration: underline;
+}
+
+.plainLinks
+{
+	text-decoration: none;
+  	font-weight: bold;
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	color: #6BC0DD;
+}
+
+.centeredBox
+{
+	margin-right: auto;
+	margin-left: auto;
+	width: 95%;
+}
+
+
+
+/* Quiz Section Start */
+div.quizIndex
+{
+	float: left;
+	padding: 10px 0 10px 10px;
+}
+
+.quizIndex ul
+{
+	margin-left: 10px;
+	color: #666666;
+	line-height: 14pt;
+	padding: 0px;
+}
+
+
+.quizIndex ul li
+{
+	list-style-image: url("tutorials/images/dot.gif");
+}
+/* Quiz Section End */
+
+/*Tutorials Section Start*/
+#tutorialContent
+{
+	position: absolute;
+	left: 200px;
+	line-height: 14pt;
+}
+
+.tutorialParagraph
+{
+	position: relative;
+	width: 460px;
+	left: 13px;
+	line-height: 14pt;
+}
+
+#tutorialMenu
+{
+	position: absolute;
+	left: 0px;
+  top: 130px;
+	color: #666666;
+	line-height: 14pt;
+	width: 200px;
+	z-index:100;
+}
+
+#tutorialMenu a
+{
+	color: #666666;
+	text-decoration: none;
+
+}
+
+#tutorialMenu a:hover
+{
+	text-decoration: underline;
+}
+#tutorialMenu ul
+{
+	margin-left: 20px;
+	color: #666666;
+	line-height: 14pt;
+	padding: 0px;
+}
+
+#tutorialMenu ul li
+{
+	list-style:none;
+		
+}
+
+#tutorialMenu ul li.headings
+{
+	color:#6BC0DD;
+	font-weight:bold;
+	list-style-image: url("tutorials/images/dot.gif");
+}
+
+
+.dottedline
+{
+	position: absolute;
+	top: 0px;
+	left: 190px;
+}
+
+.tutorialSubtitle
+{
+	font-weight: bold;
+}
+
+.unixwindow
+{
+	position: absolute;
+	top: 160px;
+	left: 35px;
+}
+
+div.tutorialIndex
+{
+	float: left;
+	padding: 10px 0 10px 10px;
+}
+
+.tutorialIndex ul
+{
+	margin-left: 10px;
+	color: #666666;
+	line-height: 14pt;
+	padding: 0px;
+}
+
+.tutorialIndex ul li
+{
+	list-style-image: url("tutorials/images/dot.gif");
+}
+
+.tutorialIndex ul ul li
+{
+}
+
+#tutorialLocal {
+  margin-top: 8px;
+  width: 185px;
+  text-align: center;
+}
+
+#tutorialLocal a
+{
+	text-decoration: none;
+  font-weight: bold;
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	color: #6BC0DD;
+}
+
+/*Tutorials Section End*/
+
+
+
+/*About Section Start*/
+
+.aboutSubtitle
+{
+	font-weight: bold;
+	color: #6bc1dd;
+}
+
+#aboutImages
+{
+	position: relative;
+	left: 0px;
+	top: 5px;
+	width: 200px;
+}
+
+#aboutImages li
+{
+	margin-bottom: 30px;
+}
+
+#aboutContent
+{
+	position: absolute;
+	left: 195px;
+	width:67%;
+	line-height: 14pt;
+}
+/*About Section End*/
+
+
+/*Index Section Start */
+
+#indexImages
+{
+	position: absolute;
+	left: 0px;
+	top: 60px;
+	left: 30px;
+	width: 134px;
+}
+
+#indexPage
+{
+	z-index:15;
+	position:relative;
+	left: 195px;
+	
+}
+
+.indexPage ul
+{
+	margin-left: 10px;
+	color: #666666;
+	line-height: 14pt;
+	padding: 0px;
+}
+
+.indexPage ul li
+{
+	list-style-image: url("tutorials/images/dot.gif");
+}
+
+/*Index Section End */
+
+
+
+/*Contact Us Start*/
+.formLabel
+{
+	float: left;
+	width: 150px;
+}
+/*Contact Us End*/
+
+
+
+/*Start Site Map*/
+div.siteMapBoxes
+{
+	padding-left: 100px;
+}
+
+.siteMapBoxes ul
+{
+	margin-left: 20px;
+	color: #666666;
+	line-height: 14pt;
+	padding: 0px;
+}
+
+.siteMapBoxes ul li
+{
+	list-style-image: url("tutorials/images/dot.gif");
+}
+
+.siteMapBoxes ul ul li
+{
+}
+
+.siteMapBoxes a
+{
+	color: #666666;
+	text-decoration: none;
+}
+
+.siteMapBoxes a:hover
+{
+	text-decoration: underline;
+}
+/*End Site Map*/
+
+
+
+/*Commands Page Start*/
+
+.alphabetList
+{
+	font-weight: bold;
+	color: #6BC1DD;
+	margin-left: 25px;
+	font-size: 14pt;
+}
+
+.commandExample
+{
+	font-family: courier; 
+	color: green;
+}
+
+.commandsList 
+{
+	width:90%;
+  list-style-image: url("commands/images/dot.gif");
+  margin-left: 10px;
+  font-weight: bold;
+	color: #886666;
+}
+
+.commandsList span:hover
+{
+  text-decoration: underline;
+}
+
+.commandDesc
+{
+  margin-left: 10px;
+  color: #666666;
+  font-weight: normal;
+}
+
+#commandABC
+{
+	width:680px;
+	height:25px;
+	background-color:#FFFFFF;
+	margin-top:3px;
+}
+
+#commandABC ul
+{
+	width:680px;
+	padding:0px;
+	margin:0px;
+}
+
+#commandABC ul li
+{
+	float: left;
+	list-style-type: none;
+	text-align:center;
+	font-family: Helvetica;
+	font-size:14px;
+	color:#666666;
+	width:150px;
+	padding-top:5px;
+	height:20px;
+}
+
+#commandABC a
+{
+	color:#666666;
+	text-decoration:none;
+}
+
+div.commandIndex
+{
+	float: left;
+	padding: 10px 0 10px 10px;
+}
+
+.commandIndex ul
+{
+	margin-left: 10px;
+	color: #666666;
+	line-height: 14pt;
+	padding: 0px;
+}
+
+.commandIndex ul li
+{
+	list-style-image: url("tutorials/images/dot.gif");
+}
+
+/*Commands Page End*/

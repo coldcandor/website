@@ -1,0 +1,62 @@
+Dave's Documentation
+
+Flat file description:
+  VDAS_contacts.txt
+    This file is used to update the "Contact Us" page.  Refer to the file for details on how to modify it.
+  
+  VDAS_feedback.txt
+    This file contains a log of all feedback that has been posted via the website feedback form.  Modifying it will have no effect on the website, nor will it affect the way the file is added to in the future.
+  
+  VDAS_whatsnew.txt
+    This file is read into the "What's New" page of the website verbatim.  The only modification done when reading this in is that leading and trailing whitespace is removed from each line.  Whitespace can be used in the file to make it easier to follow, but is removed before posting to the site to avoid related formatting and positioning problems.
+  
+  "Copy of SearchSaleReportsList.txt" and "Copy of SearchPlotReportsList.txt"
+    These files are the temporary source of the index informaion for searching.  They contain a current listing as of approximately 7/24/06.  Once the systems are updated so that the index files do not get overridden, these files will be obsolete and the index.php files will need to be updated to the actual index files.
+    
+Things that need to be modified to port the website to another server:
+  The path to the password file in .htaccess.  
+  
+  The password file itself my need to be recreated on the new server/directory.
+  
+  All internal navigation and references in the site use relative paths and thus need no alteration.  The exception is the links FROM the IP tables page.  Since that page is on a different server rlative links are not possible, those links would need to be updated.
+  
+  If the IP tables page were to move, the reference in the local nav files would need to change.
+  
+  If the record index file(s) was/were to move, the path would need to be updated in index.php.
+  
+To edit the CSV files for the inventory:
+  1. Access the website.
+  2. Click on "Inventory of Hardware" on the left nav bar.
+  3. Select the inventory you wish to view and click view.
+  4. Click on "Edit this CSV file" on the left nav bar.
+  5. Log in and use the intuitive editor (Ask Bob for assistance if needed).
+  
+To add additional inventory pages:
+  1. Place the csv file in the files/inventory/ directory.
+  2. In the file "inv.php", add a new <option> tag to the list (This will create the option in the dropdown selector) and add a new case to the switch statement (Don't forget to add "break;" at the end of the case!).  Be sure to use the same string for the case as the VALUE attribute of the <option> tag you just added.
+  3. Copy and paste the content of one of the other cases and change the file name at the end.
+  4. Copy one of the "inv_xxx.php" and rename it as desired.
+  5. For the editor to work correctly, make sure that the csv file has the identical name as the php file.
+  6. In the new file, change the following things:
+    a. The <title> tag near the top of the code.
+    b. The <div id="sbuheading"> tag.
+    c. The <p style="text-align: center"> tag just below the "welcome heading".
+    d. The comments that include the author (change the file name).
+    e. The file name in the line $info = file("files/inventory/inv_xxx.csv");
+  7. Reload the website and the new inventory should be there, complete with the ability to edit the new csv file!
+  
+To add a column to one of the csv files:
+  Simply edit the csv file by hand to add the new column.  The page and editor should automatically deal with the new format.
+  
+To add statistics pages:
+  Follow the directory and naming conventions listed in the large comment block near the top of "stats.php".  The files should be viewable automatically.
+  
+To add a PDF (or other downloadable file) to the left nav bar:
+  In the files "local/include/indexLocalNav.html" and "local/include/invLocalNav.html", copy and paste one of the <li> tags that links to a PDF file and change the filename (and the name that's displayed).  The nav bar will update automatically.
+  
+To add a contact to the "contact Us" page:
+  Simply follow the format described in "files/VDAS_contacts.txt".
+  
+To remove a contact from the "Contact Us page:
+  Simply comment out (using '//') or delete the contact from the file "files/VDAS_contacts.txt".
+  
