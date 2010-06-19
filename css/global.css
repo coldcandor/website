@@ -1,0 +1,119 @@
+/**********
+ * Global *
+ **********/
+* {
+	margin: 0;
+	padding: 0;
+}
+/* Make HTML 5 tags act like <div> for now */
+header, section, nav, footer {
+	display: block;
+}
+body {
+  background-color: #7777F2;
+}
+#body_container {
+	background: #eee;
+  border: 1px solid black;
+  margin: 10px auto;
+  position: relative;
+  width: 700px;
+}
+/**********
+ * Header *
+ **********/
+header {
+  border: 1px solid red;
+  font-size: 200%;
+  text-align: center;
+}
+/**************
+ * Navigation *
+ **************/
+nav {
+  position: absolute;
+	text-align: center;
+  width: 125px;
+}
+nav li {
+	list-style: none;
+	margin-left: -40px;
+}
+#main_nav {
+  border: 1px solid orange;
+  left: -70px;
+  top: 0;
+}
+#links {
+  border: 1px solid purple;
+	margin-top: -76px;
+  right: -70px;
+  top: 50%;
+}
+#foot_nav {
+  border: 1px solid green;
+  bottom: 0;
+  left: -70px;
+}
+/********************
+ * Content Defaults *
+ ********************/
+.content {
+	border: 1px solid yellow;
+	padding: 10px;
+	position: relative;
+	text-align: justify;
+}
+/************
+ * Homepage *
+ ************/
+#home {
+}
+/******************
+ * Christmas List *
+ ******************/
+#wishlist {
+}
+/**************
+ * To Do List *
+ **************/
+#todo {
+}
+/************
+ * Webpages *
+ ************/
+#webpages {
+  padding: 0px 20px;
+}
+#webpages p {
+	margin-bottom: .833em;
+}
+#webpages ul {
+  padding-right: 30px;
+}
+/**********
+ * Footer *
+ **********/
+footer {
+  border: 1px solid blue;
+  text-align: center;
+}
+/*****************
+ * Default Links *
+ *****************/
+a:link {
+	color: #00f;
+	text-decoration: none;
+}
+a:visited {
+	color: #a0a;
+	text-decoration: none;
+}
+a:hover {
+	color: #00f;
+	text-decoration: none;
+}
+a:active {
+	color: #00f;
+	text-decoration: none;
+}
