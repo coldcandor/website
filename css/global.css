@@ -11,6 +11,12 @@ header, section, nav, footer {
 }
 body {
   background-color: #7777F2;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.4;
+}
+p {
+	margin-bottom: .833em;
 }
 #body_container {
 	background: #eee;
@@ -24,36 +30,22 @@ body {
  **********/
 header {
   border: 1px solid red;
-  font-size: 200%;
+  padding: 10px;
   text-align: center;
 }
 /**************
  * Navigation *
  **************/
 nav {
-  position: absolute;
+	background: #eee;
 	text-align: center;
   width: 125px;
 }
-nav li {
+nav ul {
 	list-style: none;
-	margin-left: -40px;
 }
 #main_nav {
   border: 1px solid orange;
-  left: -70px;
-  top: 0;
-}
-#links {
-  border: 1px solid purple;
-	margin-top: -76px;
-  right: -70px;
-  top: 50%;
-}
-#foot_nav {
-  border: 1px solid green;
-  bottom: 0;
-  left: -70px;
 }
 /********************
  * Content Defaults *
@@ -72,7 +64,11 @@ nav li {
 /******************
  * Christmas List *
  ******************/
-#wishlist {
+#wishlist ul.wishlist {
+	padding: 0 30px;
+}
+#wishlist ul.wishlist ul {
+	padding: 0 30px;
 }
 /**************
  * To Do List *
@@ -82,20 +78,21 @@ nav li {
 /************
  * Webpages *
  ************/
-#webpages {
-  padding: 0px 20px;
-}
 #webpages p {
 	margin-bottom: .833em;
 }
-#webpages ul {
-  padding-right: 30px;
+#webpages ul.site_list {
+  padding: 0 30px;
+}
+#webpages ul.site_list ul {
+  padding: 0 30px;
 }
 /**********
  * Footer *
  **********/
 footer {
   border: 1px solid blue;
+  padding: 10px;
   text-align: center;
 }
 /*****************

@@ -3,8 +3,7 @@
 			<ul>
 				<li><a href="index.php">Home</a></li>
 				<li><a href="webpages.php">Websites</a></li>
-				<li><a href="christmas.php">XMas List</a></li>
-				<li><a href="todo.php">To Do List</a></li>
+				<li><a href="wishlist.php">XMas List</a></li>
 			</ul>
 		</nav>
 			

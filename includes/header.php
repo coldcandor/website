@@ -15,7 +15,14 @@
 		
 			<!-- Start of Header -->
 			<header>
-				Cold Candor
+				<h1>Cold Candor</h1>
+				<nav id="main_nav">
+					<ul>
+						<li><a href="index.php">Home</a></li>
+						<li><a href="webpages.php">Portfolio</a></li>
+						<li><a href="wishlist.php">Wishlist</a></li>
+					</ul>
+				</nav>
 			</header>
 			<!-- End of Header -->
 			
