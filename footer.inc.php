@@ -18,11 +18,6 @@
         <hr style="width: 20%" />
         Icon images and World of Warcraft&reg; &copy;Blizzard Entertainment Inc.
       </div>
-      <?php if (substr($_SERVER['SCRIPT_NAME'], strrpos($_SERVER['SCRIPT_NAME'], '/') + 1) == 'index.php') { ?>
-      <div id="hit_counter">
-        <img src="/cgi-sys/webcounter.cgi?c=000000&o=10&t=2&s=90x20&user=deathtoll2001&counter=" alt="Advanced Web Counter" />
-      </div>
-      <?php } ?>
     </div>
   </div> <!-- End container div -->
   </body>

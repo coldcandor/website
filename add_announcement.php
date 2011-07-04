@@ -43,17 +43,16 @@
         if ($_POST['titleField'] != null && $_POST['preview'] != 'on') {
           
           // Connecting, selecting database
-#          $link = mysql_connect('localhost', 'deathtoll2001', '5#dumb')
-          $link = mysql_connect("sqlc40b.carrierzone.com", 'deathtoll2001', '5#dumb')
+          $link = mysql_connect("localhost", 'eshields', 'secure-M3')
              or die('Could not connect: ' . mysql_error());
-          mysql_select_db('deathtoll2001') or die('Could not select database');
+          mysql_select_db('freedomschoice') or die('Could not select database');
           
           // Performing SQL query
-          $query = "INSERT INTO wow_announcements ( id, date, title, poster, body ) VALUES('', '" . date("Y-m-d") . "', '" . addslashes($_POST['titleField']) . "', '" . $_SESSION['username'] . "', '" . addslashes($_POST['bodyField']) . "');";
+          $query = "INSERT INTO announcements ( id, date, title, poster, body ) VALUES('', '" . date("Y-m-d h:m:s") . "', '" . addslashes($_POST['titleField']) . "', '" . $_SESSION['username'] . "', '" . addslashes($_POST['bodyField']) . "');";
           $result = mysql_query($query) or die('Query failed: ' . mysql_error());
           
           // Reorder the table so that the news will show up in reverse submission order
-          $query = "ALTER TABLE wow_announcements ORDER BY id DESC";
+          $query = "ALTER TABLE announcements ORDER BY id DESC";
           $result = mysql_query($query) or die('Query failed: ' . mysql_error());      
           
           // Closing connection

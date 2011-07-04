@@ -44,13 +44,12 @@
       <?php if (isset($_POST['emailconfirm'])) {
         
         // Connecting, selecting database
-#        $link = mysql_connect('localhost', 'deathtoll2001', '5#dumb')
-        $link = mysql_connect("sqlc40b.carrierzone.com", 'deathtoll2001', '5#dumb')
+        $link = mysql_connect("localhost", 'eshields', 'secure-M3')
            or die('Could not connect: ' . mysql_error());
-        mysql_select_db('deathtoll2001') or die('Could not select database');
+        mysql_select_db('freedomschoice') or die('Could not select database');
         
         // Performing SQL Query
-        $query = "SELECT username FROM wow_weblogin";
+        $query = "SELECT username FROM weblogin";
         $result = mysql_query($query) or die('Query failed: ' . mysql_error());
         
         // Determine if this username is already registered
@@ -64,10 +63,10 @@
         
         if (!$duplicate) {
           // Performing SQL query
-          $query = "INSERT INTO wow_weblogin ( username,password,email,accessLevel,dateRegistered ) VALUES('" . strtolower($_POST['username_r']) . "', '" . $_POST['password_r'] . "', '" . $_POST['email'] . "', '0', '" . date("Y-m-d") . "');";
+          $query = "INSERT INTO weblogin ( username,password,email,accessLevel,dateRegistered ) VALUES('" . strtolower($_POST['username_r']) . "', '" . $_POST['password_r'] . "', '" . $_POST['email'] . "', '0', '" . date("Y-m-d") . "');";
           $result = mysql_query($query) or die('Query failed: ' . mysql_error());
           
-          $to = 'webmaster@coldcandor.com';
+          $to = 'shiermail-website@yahoo.com';
           $subject = "Notice of Registration by " . $_POST['username_r'];
           $message = $_POST['username_r'] . " has registered for the Freedom's Choice Website.  Please confrim " . $_POST['username_r'] . " is a valid guild member and, if so, update their access level.  Their email address is " . $_POST['email'] . ".";
           $headers = "Reply-To: " . $_POST['email'];

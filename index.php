@@ -36,13 +36,12 @@
       
       <?php
       // Connecting, selecting database
-#      $link = mysql_connect('localhost', 'deathtoll2001', '5#dumb')
-      $link = mysql_connect("sqlc40b.carrierzone.com", 'deathtoll2001', '5#dumb')
+      $link = mysql_connect("localhost", 'eshields', 'secure-M3')
          or die('Could not connect: ' . mysql_error());
-      mysql_select_db('deathtoll2001') or die('Could not select database');
+      mysql_select_db('freedomschoice') or die('Could not select database');
       
       // Performing SQL query
-      $query = "SELECT * FROM wow_announcements";
+      $query = "SELECT * FROM announcements";
       $result = mysql_query($query) or die('Query failed: ' . mysql_error());
       
       $newsCounter = 0;
@@ -72,25 +71,28 @@
         
       } // End while loop
       
-      ?><div id="toggleMoreNews" style="display:; cursor: pointer; color: #DADADA;" onclick="toggleText('moreNews'); document.getElementById('toggleMoreNews').style.display = 'none';">Click here to see all announcement entries</div><div id="moreNews" style="display: none"><?php
+      if ($newsCounter === 7) {
+      	?><div id="toggleMoreNews" style="display:; cursor: pointer; color: #DADADA;" onclick="toggleText('moreNews'); document.getElementById('toggleMoreNews').style.display = 'none';">Click here to see all announcement entries</div><div id="moreNews" style="display: none"><?php
       
-        // Print the announcements to the page
-        while ($line = mysql_fetch_assoc($result)) {
-          
-          // Parse the returned date, so as to extract it in a more farmiliar form
-          preg_match("/(\d{4})-(\d{2})-(\d{2})/", $line['date'], $match);
-          
-          ?><blockquote>
-            <h4 style="cursor: pointer; margin-bottom: 0px;" onclick="toggleText('<?php echo "id" . $line['id'] ?>')"><?php echo "$match[2]-$match[3]-$match[1]". ' - ' . $line['title'] . ' - Posted by ' . $line['poster']; ?></h4>
-            <div id="<?php echo "id" . $line['id'] ?>" style="display: none;"><?php echo $line['body']; ?></div>
-          </blockquote><?php
-          
-          // Preserve announcement id for latter use
-          $lineID[] = "id" . $line['id'];
-          
-        } // End while loop
-
-      ?></div><?php
+					// Print the announcements to the page
+					while ($line = mysql_fetch_assoc($result)) {
+						
+						// Parse the returned date, so as to extract it in a more farmiliar form
+						preg_match("/(\d{4})-(\d{2})-(\d{2})/", $line['date'], $match);
+						
+						?><blockquote>
+							<h4 style="cursor: pointer; margin-bottom: 0px;" onclick="toggleText('<?php echo "id" . $line['id'] ?>')"><?php echo "$match[2]-$match[3]-$match[1]". ' - ' . $line['title'] . ' - Posted by ' . $line['poster']; ?></h4>
+							<div id="<?php echo "id" . $line['id'] ?>" style="display: none;"><?php echo $line['body']; ?></div>
+						</blockquote><?php
+						
+						// Preserve announcement id for latter use
+						$lineID[] = "id" . $line['id'];
+						
+					} // End while loop
+	
+				?></div><?php
+      
+      } // End if statement
       
       // Free resultset
       mysql_free_result($result);

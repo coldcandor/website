@@ -6,13 +6,12 @@
       $userMatch = false;
       
       // Connecting, selecting database
-#      $link = mysql_connect('localhost', 'deathtoll2001', '5#dumb')
-      $link = mysql_connect("sqlc40b.carrierzone.com", 'deathtoll2001', '5#dumb')
+      $link = mysql_connect("localhost", 'eshields', 'secure-M3')
          or die('Could not connect to user database: ' . mysql_error());
-      mysql_select_db('deathtoll2001') or die('Could not select database');
+      mysql_select_db('freedomschoice') or die('Could not select database');
       
       // Performing SQL query
-      $query = "SELECT * FROM wow_weblogin";
+      $query = "SELECT * FROM weblogin";
       $result = mysql_query($query) or die('Query failed: ' . mysql_error());
       
       // Determine the users login status and access level
@@ -26,7 +25,7 @@
           mysql_free_result($result);
     
           // Update the lastLogin stat
-          $query = "UPDATE wow_weblogin SET lastLogin = '" . date("Y-m-d") . "' WHERE CONVERT( username USING utf8 ) = '" . strtolower($_POST['username']) . "';";
+          $query = "UPDATE weblogin SET lastLogin = '" . date("Y-m-d h:m:s") . "' WHERE CONVERT( username USING utf8 ) = '" . strtolower($_POST['username']) . "';";
           $result = mysql_query($query) or die('Query failed: ' . mysql_error());
           
           break;

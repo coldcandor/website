@@ -37,7 +37,7 @@
     </div>
     <div id="contactContent"> <!-- Start Index Content -->
       <?php if (isset($_POST['message'])) {
-        $to = 'webmaster@coldcandor.com';
+        $to = 'shiermail-website@yahoo.com';
         $subject = "Message from " . $_POST['username'];
         $message = $_POST['username'] . " has left you a message on the Freedom's Choice website.  Their email is " . $_POST['email'] . ".  Their message is:\n\n" . $_POST['message'];
         $headers = "Reply-To: " . $_POST['email'];
