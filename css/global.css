@@ -56,37 +56,6 @@ nav ul {
 	position: relative;
 	text-align: justify;
 }
-/************
- * Homepage *
- ************/
-#home {
-}
-/******************
- * Christmas List *
- ******************/
-#wishlist ul.wishlist {
-	padding: 0 30px;
-}
-#wishlist ul.wishlist ul {
-	padding: 0 30px;
-}
-/**************
- * To Do List *
- **************/
-#todo {
-}
-/************
- * Webpages *
- ************/
-#webpages p {
-	margin-bottom: .833em;
-}
-#webpages ul.site_list {
-  padding: 0 30px;
-}
-#webpages ul.site_list ul {
-  padding: 0 30px;
-}
 /**********
  * Footer *
  **********/
