@@ -1,7 +1,7 @@
 <?php include('includes/header.php'); ?>
-    
+
     <section id="todo" class="content">
-    
+
       <h2>To Do List:</h2>
       <ul>
         <li>Add Money, or at least make an HTML for money, should be protected</li>
@@ -14,9 +14,19 @@
 				<li>Figure out why server won't connect to external sites</li>
 				<li>Post, at the least, some screens from projects done for Synacor</li>
 				<li>Node.js?</li>
+				<li>CSS/JS includer function</li>
+				<li>Mote.js framework of template files pieced together via JS</li>
+				<li>Minecraft Enchanting Calculator
+					<ul>
+						<li>Enchant percentages table (percentages)</li>
+						<li>Option to generate full table of all possibilities (percentages)</li>
+						<li>Dynamically update template based on input values</li>
+						<li>Input validation!</li>
+					</ul>
+				</li>
       </ul>
 
     </section>
-      
+
     <?php include('includes/footer.php'); ?>
-    
+

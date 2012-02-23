@@ -2,10 +2,13 @@
  * Global *
  **********/
 * {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
 	margin: 0;
 	padding: 0;
-}
-/* Make HTML 5 tags act like <div> for now */
+	position: relative;
+}}
 header, section, nav, footer {
 	display: block;
 }

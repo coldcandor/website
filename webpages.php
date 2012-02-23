@@ -1,7 +1,7 @@
 <?php include('includes/header.php'); ?>
-    
+
     <section id="webpages" class="content">
-    
+
       <p>This is basically my online portfolio.</p>
       <p>All websites that I make are designed for Firefox first, other W3 standards compliant browers next (rarely need changes from the FF version), IE last.  If it doesn't seem to look or work right in IE, it's most likely because I didn't deem it worth the time and/or effort required to cater to IE's ridiculous special needs for that site.  One of the requirements of the Website Design class and the site made for Honeywell was functionality in IE, so those will work.  The others have no such gaurentee.</p>
       <p>I have never and will never use a software package to program or create sites for me, unless required by the people I work for.  Whenever remotely possible, I code using a simple text editor, namely jEdit.</p>
@@ -36,6 +36,6 @@
         </li>
       </ul>
     </section>
-    
+
     <?php include('includes/footer.php'); ?>
-    
+
