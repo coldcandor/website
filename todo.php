@@ -16,6 +16,9 @@
 				<li>Node.js?</li>
 				<li>CSS/JS includer function</li>
 				<li>Mote.js framework of template files pieced together via JS</li>
+				<li>Move play directory under beta</li>
+				<li>Move "master" website version to github, branch beta version into projects</li>
+				<li>Utilize env script on server</li>
 				<li>Minecraft Enchanting Calculator
 					<ul>
 						<li>Enchant percentages table (percentages)</li>
@@ -24,9 +27,15 @@
 						<li>Input validation!</li>
 					</ul>
 				</li>
+				<li>Resume future ideas
+					<ul>
+						<li>Animated open/close of sections</li>
+						<li>Mobile phone version of the styles</li>
+						<li>Smart page split</li>
+					</ul>
+				</li>
       </ul>
 
     </section>
 
     <?php include('includes/footer.php'); ?>
-

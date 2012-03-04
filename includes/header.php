@@ -17,6 +17,11 @@
 		<script type="text/javascript" src="js/3rdparty/mustache-jquery.js"></script>
 		<script type="text/javascript" src="js/global.js"></script>
 
+		<!-- Add HTML5 compatability in IE < 9 -->
+		<!--[if lt IE 9]>
+			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+
 		<title>Cold Candor</title>
 	</head>
 	<body>

@@ -7,7 +7,7 @@
 				<li><a href="minecraft.php">Minecraft</a></li>
 			</ul>
 		</nav>
-
+<!--
 		<nav id="links">
 			<ul>
 				<li><a href="http://mail.yahoo.com">Yahoo Mail</a></li>
@@ -19,3 +19,4 @@
 				<li><a href="mailto:webmaster@coldcandor.com">Contact Me</a></li>
 			</ul>
 		</nav>
+-->
