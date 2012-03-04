@@ -3,7 +3,6 @@
 			<ul>
 				<li><a href="index.php">Home</a></li>
 				<li><a href="webpages.php">Websites</a></li>
-				<li><a href="wishlist.php">Wish List</a></li>
 				<li><a href="minecraft.php">Minecraft</a></li>
 			</ul>
 		</nav>
