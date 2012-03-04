@@ -34,8 +34,8 @@
     <link rel="stylesheet" type="text/css" href="<?php echo $path ?>/menu.css" />
     <title>Freedom's Choice Guild</title>
     
-    <!-- Redirect the IE users to a instruction page for getting Firefox -->
-    <!--[if IE]>
+    <!-- Redirect the IE users to a instruction page for upgrading -->
+    <!--[if lt IE 8]>
       <script type="text/javascript">document.location = "ie.html";</script>
     <![Endif]-->
     
