@@ -44,7 +44,7 @@
       <?php if (isset($_POST['emailconfirm'])) {
         
         // Connecting, selecting database
-        $link = mysql_connect("localhost", 'eshields', 'secure-M3')
+        $link = mysql_connect("localhost", 'root', 'secure-M3')
            or die('Could not connect: ' . mysql_error());
         mysql_select_db('freedomschoice') or die('Could not select database');
         
