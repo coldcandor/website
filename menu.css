@@ -1,0 +1,156 @@
+/* This is a modified version of the menus found on Dan Boggard's RIT Website at http://www.rit.edu/~dsbics/ */
+
+div#nav ul.level1 li a.top:hover {
+  color: #404080;
+  font-weight: bold;
+}
+
+div#nav ul.level1 li.submenu:hover {
+  background-Color: #3B3BC5;
+}
+
+div#nav ul.level1 li.color:hover {
+  background-Color: #002288;
+}
+
+div#nav ul {
+  margin: 0;
+  padding: 0; 
+  background-color: #002288;
+  border: 1px solid #222222; 
+  border-width: 0px 1px; 
+  font-size: 13px;
+}
+
+div#nav li {
+  position: relative; 
+  list-style: none; 
+  margin: 0;
+  float: left; 
+  width: 7.6em; 
+  line-height: 1em;
+  font-weight: bold;
+}
+
+div#nav li.submenu li.submenu {
+  line-height: 1.5em;
+}
+
+div#nav li a {
+  display: block; 
+  padding: 0.25em 0em 0.25em 0em;
+  text-decoration: none; 
+  width: 6em;
+}
+
+div#nav>ul a {
+  width: auto;
+}
+
+/* margin below moves 1st level sub menus to the right, rule after moves subsiquent menus back */
+div#nav ul ul {
+  position: absolute; 
+  margin: 0px 20px; 
+  width: 7.6em;  
+  font-size: 11px; 
+  display: none;
+}
+
+div#nav ul ul ul {
+  margin: 0px 0px;
+}
+
+div#nav ul ul li {
+  border-bottom: 1px solid #222222;
+  font-weight: normal;
+}
+
+div#nav li.submenu li.submenu, 
+div#nav li.over li.submenu, 
+div#nav li.over li.over2 {
+  background: url(media/submenu.gif) 95% 50% no-repeat;
+}
+
+div#nav ul.level1 li.submenu:hover ul.level2, 
+div#nav ul.level2 li.submenu:hover ul.level3, 
+div#nav ul.level3 li.submenu:hover ul.level4 {
+  display: block;
+}
+
+div#nav ul.level2 {
+  top: 1.5em; 
+  left: -1px; 
+  border-top: 1px solid #222222;
+}
+
+div#nav ul.level3, 
+div#nav ul.level4 {
+  top: -1px; 
+  left: 7em;
+  border-top: 1px solid #222222;
+  z-index: 10;
+}
+
+/* turn on the first menu for IE */
+div#nav ul li.over ul, 
+div#nav ul li.over ul li.over2 ul,
+div#nav ul li.over ul li.over2 ul li.over3 ul {
+	display: block;
+}
+
+div#nav li.submenu li.submenu:hover, 
+div#nav li.submenu li.submenu li.submenu:hover,
+.over3 {
+	background: url(media/submenu2.gif) 85% 50% no-repeat;
+  background-color: #404080;
+}
+
+/* once we turn on the first above, we need to turn off the second again */
+/* when we turn on the second, turn off the third */
+div#nav ul li.over ul li ul, 
+div#nav ul li.over ul li.over2 ul li ul {
+	display: none;
+}
+
+/* first rule looses me the arrow? */
+div#nav ul li.submenu ul li:hover,
+div#nav ul li.submenu ul li.submenu ul li:hover,
+div#nav ul li.over ul li.over2, 
+div#nav ul li.over ul li.midNode,
+div#nav ul li.over ul li.over2 ul li.endNode,
+div#nav ul li.over ul li.over2 ul li.over3 ul li.veryEndNode {
+	background: #404080;
+}
+
+div#nav ul.level2 li:hover ul.level3 li,
+div#nav ul li.over ul li.over2 ul li {
+	font-weight: normal;
+}
+
+/* Define the menu link styles */
+div#nav a:link {
+  color: #EEEEEE;
+  text-decoration: none;
+}
+
+div#nav a:visited {
+  color: #EEEEEE;
+  text-decoration: none;
+}
+
+div#nav a:hover {
+  color: #EEEEEE;
+  text-decoration: none;
+}
+
+li#loginLink a:link {
+  color: #FF2222;
+}
+
+li#loginLink a:visited {
+  color: #FF2222;
+}
+
+li#loginLink a:hover {
+  color: #FF5555;
+}

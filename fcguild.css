@@ -1,0 +1,544 @@
+body {  /* Switch commented lines for live and beta versions.  Beta version should have the beta image uncommented */
+  background-color: #000000;
+  /*background-image: url(images/beta.jpg);*/
+}
+
+/* Overall container, used to position entire page */
+
+#container {
+  margin: 0px auto;
+  padding: 8px;
+  background-color: #5050EF;
+  width: 800px;
+  z-index: 0;
+}
+
+/**************/
+/* Header CSS */
+/**************/
+
+#header {
+  position: relative;
+  left: 0px;
+  top: 0px;
+  background-color: #3B3BC5;
+  z-index: 1;
+}
+
+#headerImg {
+  margin: 0px auto;
+  padding-top: 20px;
+  height: 250px;
+  width: 750px;
+  z-index: 2;
+}
+
+#title {
+  position: absolute;
+  left: 272px;
+  top: -10px;
+  height: 60px;
+  width: 240px;
+  z-index: 3;
+}
+
+#nav {
+  position: relative;
+  left: 2px;
+  text-align: center;
+}
+
+/***************/
+/* Content CSS */
+/***************/
+
+#subHeader {
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  text-align: center;
+  font-size: 215%;
+  font-weight: bold;
+}
+
+.accessDenied {
+  color: #AA0000;
+  text-align: center;
+}
+
+/* Index */
+#indexContent {
+  text-align: justify;
+  padding: 0px 12px;
+}
+
+#indexContent blockquote {
+  margin: 15px 0px 5px 0px;
+  border-top: 2px solid #000;
+  background-color: #6060FF;
+  padding: 5px;
+}
+
+#indexContent blockquote h4 {
+  margin-top: 0px;
+  padding: 2px 5px 2px 5px;
+  background-color: #8080FF;
+}
+
+#indexContent blockquote p {
+  margin: 8px 10px 8px 10px;
+}
+
+/* Add Announcement */
+#addAnnouncementContent {
+  text-align: justify;
+  padding: 0px 12px;
+}
+
+#addAnnouncementContent blockquote {
+  margin: 15px 0px 5px 0px;
+  border-top: 2px solid #000;
+  background-color: #6060FF;
+  padding: 5px;
+}
+
+#addAnnouncementContent blockquote h4 {
+  margin-top: 0px;
+  padding: 2px 5px 2px 5px;
+  background-color: #8080FF;
+}
+
+#addAnnouncementContent blockquote p {
+  margin: 8px 10px 8px 10px;
+}
+
+
+/* Login */
+#loginContent table {
+  margin: 5px auto 3px auto;
+  padding: 10px;
+  background-color: #8080FF;
+}
+
+#loginContent .inputTextBox {
+  width: 200px;
+  padding-left: 3px;
+  font: 8pt Arial, Helvetica, Sans-Serif;
+  border: 1px solid #888888;
+  background-color: #E8E8E8;
+}
+
+#loginContent .standardButton {
+  background-color: #CDCDCD;
+  font-family: Arial, Helvetica, Sans-Serif;
+  font-size: 8pt;
+  
+  border-style: solid;
+  border-width: 1px; 
+  
+  border-top-color: #FFFFFF;
+  border-left-color: #FFFFFF;
+  border-right-color: #404040;
+  border-bottom-color: #404040;
+}
+
+#badLogin {
+  text-align: center; 
+  margin-top: 3px;
+  color: #AA0000; 
+  font-weight: bold;
+}
+
+#loginContent .label {
+  text-align: right; 
+  width: 30%;
+}
+  
+#loginContent .input {
+  text-align: left; 
+  width: 70%;
+}
+
+#loginContent p {
+  text-align: center; 
+  font-weight: bold;
+}
+  
+/* Password Recovery */
+#recoveryContent table {
+  margin: 5px auto 3px auto;
+  padding: 10px;
+  background-color: #8080FF;
+}
+
+#recoveryContent .inputTextBox {
+  width: 200px;
+  padding-left: 3px;
+  font: 8pt Arial, Helvetica, Sans-Serif;
+  border: 1px solid #888888;
+  background-color: #E8E8E8;
+}
+
+#recoveryContent .standardButton {
+  background-color: #CDCDCD;
+  font-family: Arial, Helvetica, Sans-Serif;
+  font-size: 8pt;
+  
+  border-style: solid;
+  border-width: 1px; 
+  
+  border-top-color: #FFFFFF;
+  border-left-color: #FFFFFF;
+  border-right-color: #404040;
+  border-bottom-color: #404040;
+}
+
+#recoveryContent .label {
+  text-align: right; 
+  width: 30%;
+}
+  
+#recoveryContent .input {
+  text-align: left; 
+  width: 70%;
+}
+
+/* Registration */
+#registerContent {
+  text-align: justify;
+  padding: 0px 12px;
+}
+
+#registerContent table {
+  margin: 5px auto 3px auto;
+  padding: 10px;
+  background-color: #8080FF;
+}
+
+#registerContent .inputTextBox {
+  width: 200px;
+  padding-left: 3px;
+  font: 8pt Arial, Helvetica, Sans-Serif;
+  border: 1px solid #888888;
+  background-color: #E8E8E8;
+}
+
+#registerContent .standardButton {
+  background-color: #CDCDCD;
+  font-family: Arial, Helvetica, Sans-Serif;
+  font-size: 8pt;
+  
+  border-style: solid;
+  border-width: 1px; 
+  
+  border-top-color: #FFFFFF;
+  border-left-color: #FFFFFF;
+  border-right-color: #404040;
+  border-bottom-color: #404040;
+}
+
+#registerContent .label {
+  text-align: right; 
+  width: 20%;
+}
+
+#registerContent .desc {
+  text-align: left;
+  width: 70%;
+  font-size: 75%;
+}
+  
+#registerContent .input {
+  text-align: left; 
+  width: 10%;
+}
+
+#registerContent .badUsername {
+  text-align: center;
+  color: #AA0000;
+}
+
+/* Password Change */
+#passwordContent table {
+  margin: 5px auto 3px auto;
+  padding: 10px;
+  background-color: #8080FF;
+}
+
+#passwordContent .inputTextBox {
+  width: 200px;
+  padding-left: 3px;
+  font: 8pt Arial, Helvetica, Sans-Serif;
+  border: 1px solid #888888;
+  background-color: #E8E8E8;
+}
+
+#passwordContent .standardButton {
+  background-color: #CDCDCD;
+  font-family: Arial, Helvetica, Sans-Serif;
+  font-size: 8pt;
+  
+  border-style: solid;
+  border-width: 1px; 
+  
+  border-top-color: #FFFFFF;
+  border-left-color: #FFFFFF;
+  border-right-color: #404040;
+  border-bottom-color: #404040;
+}
+
+#failedAttempt {
+  text-align: center; 
+  margin-top: 3px;
+  color: #AA0000; 
+  font-weight: bold;
+}
+
+#passwordContent .label {
+  text-align: right; 
+  width: 50%;
+}
+  
+#passwordContent .input {
+  text-align: left; 
+  width: 50%;
+}
+  
+/* Charter */
+#charterContent {
+  text-align: justify;
+  padding: 0px 12px;
+}
+
+/* Bank Overview */
+#bankOverviewContent {
+  text-align: justify;
+  padding: 0px 12px;
+}
+
+#bankOverviewContent table {
+  margin: 0px auto;
+}
+
+#bankOverviewContent .tableHeader {
+  text-align: center;
+  font-weight: bold;
+  background-color: #3333AA;
+}
+
+#bankOverviewContent .tableRowEven {
+  background-color: #6666CC;
+}
+
+#bankOverviewContent .tableRowOdd {
+  background-color: #6666FF;
+}
+
+/* Officers */
+#officerContent {
+  text-align: justify;
+  padding: 0px 12px;
+}
+
+#officerContent table {
+  margin: 0px auto;
+}
+
+#officerContent .tableHeader {
+  text-align: center;
+  font-weight: bold;
+  background-color: #3333AA;
+}
+
+#officerContent .tableRowEven {
+  background-color: #6666CC;
+}
+
+#officerContent .tableRowOdd {
+  background-color: #6666FF;
+}
+
+/* History */
+#historyContent {
+  text-align: justify;
+  padding: 0px 12px;
+}
+
+/* Progress */
+#progressContent {
+  text-align: justify;
+  padding: 0px 12px;
+}
+
+/* Bank Inventory */
+#bankInvContent {
+  text-align: justify;
+}
+
+#bankInvContent {
+  width: 698px;
+  margin: 0px auto;
+  padding-bottom: 10px;
+}
+
+/* Pattern Finder */
+
+/* Forum */
+#forumContent {
+  text-align: justify;
+  padding: 0px 12px;
+}
+
+/* Bios */
+
+/* Screenshots */
+#screenshotsContent .inputTextBox {
+  width: 200px;
+  padding-left: 3px;
+  font: 8pt Arial, Helvetica, Sans-Serif;
+  border: 1px solid #888888;
+  background-color: #E8E8E8;
+}
+
+#screenshotsContent .standardButton {
+  background-color: #CDCDCD;
+  font-family: Arial, Helvetica, Sans-Serif;
+  font-size: 8pt;
+  
+  border-style: solid;
+  border-width: 1px; 
+  
+  border-top-color: #FFFFFF;
+  border-left-color: #FFFFFF;
+  border-right-color: #404040;
+  border-bottom-color: #404040;
+}
+
+#screenshotsContent {
+  text-align: justify;
+  padding: 0px 12px;
+}
+
+#screenshotsContent table {
+  margin: 5px auto 3px auto;
+  padding: 10px;
+  background-color: #8080FF;
+  text-align: center;
+}
+
+/* Calender */
+#calenderContent {
+  text-align: justify;
+  padding: 0px 12px;
+}
+
+/* Site Map */
+
+/* Contact the Webmaster */
+#contactContent .inputTextBox {
+  width: 200px;
+  padding-left: 3px;
+  font: 8pt Arial, Helvetica, Sans-Serif;
+  border: 1px solid #888888;
+  background-color: #E8E8E8;
+}
+
+#contactContent .standardButton {
+  background-color: #CDCDCD;
+  font-family: Arial, Helvetica, Sans-Serif;
+  font-size: 8pt;
+  
+  border-style: solid;
+  border-width: 1px; 
+  
+  border-top-color: #FFFFFF;
+  border-left-color: #FFFFFF;
+  border-right-color: #404040;
+  border-bottom-color: #404040;
+}
+
+#contactContent {
+  text-align: justify;
+  padding: 0px 12px;
+}
+
+#contactContent table {
+  margin: 5px auto 3px auto;
+  padding: 10px;
+  background-color: #8080FF;
+  text-align: center;
+}
+
+#contactContent .label {
+  text-align: right; 
+  width: 15%;
+}
+  
+#contactContent .input {
+  text-align: left; 
+  width: 85%;
+}
+  
+
+/**************/
+/* Footer CSS */
+/**************/
+
+#footer {
+  text-align: center;
+  background-color: #3B3BC5;
+  margin-top: 3px;
+  padding-bottom: 3px;
+  z-index: 1;
+}
+
+#bottomNav {
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  padding: 4px 0px;
+}
+
+#validation {
+  padding: 5px 0px;
+  z-index: 1;
+}
+
+#copyright {
+  font-size: 80%;
+  text-align: center;
+  z-index: 1;
+}
+
+/********************/
+/* Link Definitions */
+/********************/
+
+a:link {
+  color: #EEEEEE;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:visited {
+  color: #EEEEEE;
+  text-decoration: none;
+  font-weight: bold;  
+}
+
+a:hover {
+  color: #BBBBEE;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:link img {
+  border: none;
+}
+
+a:visited img {
+  border: none;
+}
+
+a:hover img {
+  border: none;
+}
+
