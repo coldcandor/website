@@ -1,0 +1,88 @@
+/**********
+ * Global *
+ **********/
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+header, section, nav, footer {
+	display: block;
+}
+body {
+  background-color: #7777F2;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.4;
+}
+p {
+	margin-bottom: .833em;
+}
+#body_container {
+	background: #eee;
+  border: 1px solid black;
+  margin: 10px auto;
+  position: relative;
+  width: 960px;
+}
+/**********
+ * Header *
+ **********/
+header {
+  border: 1px solid red;
+  padding: 10px;
+  text-align: center;
+}
+/**************
+ * Navigation *
+ **************/
+nav {
+	background: #eee;
+	text-align: center;
+  width: 125px;
+}
+nav ul {
+	list-style: none;
+}
+#main_nav {
+  border: 1px solid orange;
+}
+/********************
+ * Content Defaults *
+ ********************/
+.content {
+	border: 1px solid yellow;
+	padding: 10px;
+	position: relative;
+	text-align: justify;
+}
+/**********
+ * Footer *
+ **********/
+footer {
+  border: 1px solid blue;
+  padding: 10px;
+  text-align: center;
+}
+/*****************
+ * Default Links *
+ *****************/
+a:link {
+	color: #00f;
+	text-decoration: none;
+}
+a:visited {
+	color: #a0a;
+	text-decoration: none;
+}
+a:hover {
+	color: #00f;
+	text-decoration: none;
+}
+a:active {
+	color: #00f;
+	text-decoration: none;
+}
