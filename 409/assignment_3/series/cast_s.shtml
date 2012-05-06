@@ -1,0 +1,61 @@
+      <!--#include file="header.inc.htm" -->      
+      <div id="content">
+      <p style="text-align: center;"><img alt="Crew" src="../crew.jpg" /></p>
+
+        <ul>
+          <li>Writtten by
+            <ul>
+              <li>Joss Whedon (Creator)</li>
+            </ul>
+          </li>
+        </ul>
+        
+        <ul>
+          <li>Cast (in credits order)
+            <ul>
+              <li>Nathan Fillion        ....    Mal</li>
+              <li>Gina Torres           ....    Zoe Allene Washburne</li>
+              <li>Alan Tudyk            ....    Wash</li>
+              <li>Morena Baccarin       ....    Inara</li>
+              <li>Adam Baldwin          ....    Jayne</li>
+              <li>Jewel Staite          ....    Kaylee</li>
+              <li>Sean Maher            ....    Dr. Simon Tam</li>
+              <li>Summer Glau           ....    River</li>
+              <li>Ron Glass             ....    Shepherd Book</li>
+            </ul>    
+          </li>
+        </ul>
+          
+        <ul>
+          <li>Produced by
+            <ul>
+              <li>Gareth Davies	.... 	producer</li>
+              <li>Ben Edlund	.... 	producer</li>
+              <li>Lisa Lassek	.... 	associate producer</li>
+              <li>Tim Minear	.... 	executive producer</li>
+              <li>Brian Wankum	.... 	associate producer</li>
+              <li>Joss Whedon	.... 	executive producer</li>
+            </ul>
+          </li>
+        </ul>
+         
+        <ul>
+          <li>Original Music by
+            <ul>
+              <li>Greg Edmonson</li>
+              <li>Joss Whedon	 	(main title theme "Ballad of Serenity")</li>
+            </ul>
+          </li>
+        </ul>
+        
+        <ul>
+          <li>Cinematography by
+            <ul>
+              <li>David Boyd</li>
+            </ul>
+          </li>
+        </ul>
+        
+        (Courtesy of IMDB.com)        
+      </div>
+      <!--#include file="footer.inc.htm" -->      

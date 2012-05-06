@@ -1,0 +1,44 @@
+<!-- footer.html defines the layout of footer section of the CSS-based -->
+<!-- Inside Honeywell template.  The values used are defined in the    -->
+<!-- "content_owner_publisher.js" file -->
+
+<div id=footer>
+	<script type="text/javascript">
+		if(navigator.appName == "Microsoft Internet Explorer")
+		{
+			document.write("<br />")
+		}
+	</script>
+	
+	<table summary="" border="0" width="100%">
+	<tr>
+			<td>
+					<p class="regulartext">&nbsp;&nbsp;&nbsp;Content Owner:
+					
+					<script type="text/javascript">
+						document.write(pageOwner);
+					</script>
+					
+					<br />
+					&nbsp;&nbsp;&nbsp;Content Publisher:
+					
+					<script type="text/javascript">
+						document.write(pagePublisherURL);
+					</script>
+					
+					<br /><br />
+					&nbsp;&nbsp;&nbsp;Last Modified: <!--#echo var="LAST_MODIFIED" -->
+					
+					<br />
+					&nbsp;&nbsp;&nbsp;&copy; 2000 -
+					
+					<script type="text/javascript">
+						document.write(now.getFullYear());
+					</script>
+					
+					Honeywell International, All Rights Reserved</p>
+			</td>
+	</tr>
+	</table>
+</div>
+

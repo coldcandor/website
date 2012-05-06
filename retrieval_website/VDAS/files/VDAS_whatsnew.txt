@@ -1,0 +1,7 @@
+Welcome!
+
+  This is the VDAS news.  New features that have been added to VDAS are
+ listed here, recent problems with VDAS are documented here, and general
+ information to make running VDAS easier is included here.  If you have any
+ questions about announcments here, you can leave "feedback" or call the
+ VDAS programmer directly.

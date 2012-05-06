@@ -1,0 +1,72 @@
+      <!--#include file="header.inc.htm" -->      
+      <div id="content">
+        <p style="text-align: justify">Firefly not only was nominated for many awards, it also won an Emmy!</p>
+        
+        Awards Won:
+        <ul>
+          <li>Emmy Awards:
+            <ul>
+              <li>Outstanding Special Visual Effects for a Series</li>
+            </ul>
+          </li>
+        </ul>
+        
+        <ul>
+          <li>Saturn Awards:
+            <ul>
+              <li>Best DVD Television Release (For "The Complete Firefly")</li>
+              <li>Cinescape Grand Face of the Future Award - Male:  Nathan Fillion</li>
+            </ul>
+          </li>
+        </ul>
+        
+        <ul>
+          <li>Visiual Effects Society Awards
+            <ul>
+              <li>Best Visual Effects in a Television Series</li>
+            </ul>
+          </li>
+        </ul>
+
+        Nominations:
+        
+        <ul>
+          <li>Hugo Awards:
+            <ul>
+              <li>Best Dramatic Presentation - Short Form
+                <ul>
+                  <li>For episode "Heart of Gold"</li>
+                  <li>For episode "The Message"</li>
+                  <li>For episode "Serenity"</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+        
+        <ul>
+          <li>Motion Picture Sound Editors, USA:
+            <ul>
+              <li>Golden Reel Award - Best Sound Editing in Television Long Form - Sound Effects and Foley</li>
+            </ul>
+          </li>
+        </ul>
+        
+        <ul>
+          <li>Golden Satellite Awards
+            <ul>
+              <li>Best DVD Extras</li>
+            </ul>
+          </li>
+        </ul>
+
+        <ul>
+          <li>Visiual Effects Society Awards
+            <ul>
+              <li>Best Compositing in a Television Program, Music Video, or Commercial</li>
+            </ul>
+          </li>
+        </ul>
+        (courtesy IMDB.com)
+      </div>
+      <!--#include file="footer.inc.htm" -->      

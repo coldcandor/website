@@ -1,0 +1,100 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+                      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+    <link href="index.css" rel="stylesheet" type="text/css" />
+    <title>Serenity Fanatics Site</title>
+    
+    <script type="text/javascript">
+      <!--
+      var loc = String(window.location);
+      var index = loc.lastIndexOf("/");
+      var file = loc.substring(index + 1);
+      var path = loc.substring(0, index);
+          
+      function click(link) {
+        window.location = link;
+      }
+      function menu(it) {
+        document.getElementById("dropDown").style.display = document.getElementById("dropDown").style.display == "none" ? "" : "none";
+        it.style.backgroundColor = (it.style.backgroundColor == "#4855A0") ? "#152270" : "#4855A0";
+      }
+      //-->
+    </script>
+
+  </head>
+  <body>
+
+    <div id="container">  
+  
+      <div id="title">
+    
+        <div class="pagetitle">
+          <img src="serenity_title.jpg" alt="Title Text" />
+        </div>
+          
+        <img class="mainPic" src="serenity.jpg" alt="Serenity" />
+      
+      </div>
+      
+      <div id="links">
+      
+        <script type="text/javascript">
+          <!--
+          if (file == "index.shtml" || file == "") {
+            document.write("<div style='background-color: #4855A0;' class='ldiv'><span class='links'>Home</span></div>");
+          } else {
+            document.write("<div onclick='click(\"index.shtml\")' class='ldiv'><a class='links' href='index.shtml'>Home</a></div>");
+          }
+          if (file == "cast.shtml") {
+            document.write("<div style='background-color: #4855A0;' class='ldiv'><span class='links'>Cast and Crew</span></div>");
+          } else {
+            document.write("<div onclick='click(\"cast.shtml\")' class='ldiv'><a class='links' href='cast.shtml'>Cast and Crew</a></div>");
+          }
+          if (file == "summary.shtml") {
+            document.write("<div style='background-color: #4855A0;' class='ldiv'><span class='links'>Summary</span></div>");
+          } else {
+            document.write("<div onclick='click(\"summary.shtml\")' class='ldiv'><a class='links' href='summary.shtml'>Summary</a></div>");
+          }
+          if (file == "reviews.shtml") {
+            document.write("<div style='background-color: #4855A0;' class='ldiv'><span class='links'>Reviews</span></div>");
+          } else {
+            document.write("<div onclick='click(\"reviews.shtml\")' class='ldiv'><a class='links' href='reviews.shtml'>Reviews</a></div>");
+          }
+          if (file == "awards.shtml") {
+            document.write("<div style='background-color: #4855A0;' class='ldiv'><span class='links'>Awards</span></div>");
+          } else {
+            document.write("<div onclick='click(\"awards.shtml\")' class='ldiv'><a class='links' href='awards.shtml'>Awards</a></div>");
+          }
+
+          //-->
+        </script>
+        
+        <div id="series" onclick='menu(this)' class='ldiv'>
+          <span class='links'>The Series</span>
+        </div>
+        
+        <div id="dropDown" style="display: none;">
+          <ul>
+            <li onclick="window.location = path + '/series/series.shtml'">Summary</li>
+            <li onclick="window.location = path + '/series/cast_s.shtml'">Cast and Crew</li>
+            <li onclick="window.location = path + '/series/awards_s.shtml'">Awards</li>
+          </ul>
+        </div>
+        
+        <script type="text/javascript">  
+          <!--
+          if (file == "series.shtml" || file == "cast_s.shtml" || file == "awards_s.shtml") {
+            document.getElementById("series").style.backgroundColor = "#4855A0";
+          }
+          if (file == "css.shtml") {
+            document.write("<div style='background-color: #4855A0;' class='ldiv'><span class='links'>CSS</span></div>");
+          } else {
+            document.write("<div onclick='click(\"css.shtml\")' class='ldiv'><a class='links' href='css.shtml'>CSS</a></div>");
+          }
+          //-->
+        </script> 
+        
+      </div>
+      <!-- End SSI Include - Header -->

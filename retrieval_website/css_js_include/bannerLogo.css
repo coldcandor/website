@@ -1,0 +1,13 @@
+/* bannerLogo.css - defines the style/positioning of the right justified */
+/* image if the header/banner of the Inside Honeywell CSS-based template  */
+
+#bannerImages
+{
+	margin:0;
+	padding:0;
+	background-image:url(http://www.phxlab.honeywell.com/47-30/images/DataAndAutomation.gif);
+	background-position:right;
+	background-repeat:no-repeat;
+	background-color:#fff;
+}
+

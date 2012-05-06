@@ -1,0 +1,189 @@
+/* VDAS.css - contains the presentation information for the "contents" sections of each page. */
+
+#recallContainer
+{
+  position: relative;
+  border: 2px solid black;
+  width: 615px;
+  margin: 0px auto;
+  padding: 5px;
+}
+
+.noFormatTable
+{
+  border-width: 0px;
+  border-spacing: 0px;
+  border-collapse: collapse;
+}
+
+.noFormatTable td
+{
+  background-color: #FFF;
+  border-width: 0px;
+  border-spacing: 0px;
+  padding: 1px;
+  margin: 0px;
+}
+
+.formLabel
+{
+  text-align: right;
+  width: 90px;
+}
+
+.checkBatch
+{
+  cursor: pointer;
+  position: relative;
+  left: 3px;
+}
+
+.checkBatch:hover
+{
+  color: #00f;
+}
+
+#resetButton
+{
+  position: absolute;
+  left: 390px;
+  top: 20px;
+  height: 50px;
+  width: 150px;
+  font-size: 175%;
+}
+
+#resultsTable
+{
+  width: 100%;
+  text-align: center;
+}
+
+#resultCount
+{
+  color: blue;
+  font-weight: bold;
+  font-size: 120%;
+}
+
+#hitCounter
+{
+  font-size: 8pt;
+  position: absolute;
+  right: 0px;
+  text-align: right;
+  margin-top: 18px;
+  margin-right: 10px;
+}
+
+.hitNum
+{
+  font-weight: bold;
+  color: blue;
+}
+
+#pdfList
+{
+   text-align: center;
+   font-size: 135%;
+   line-height: 125%;
+}
+
+#pdfList a:link
+{
+   font-family: times, helvetica, sans-serif;
+}
+
+#pdfList a:visited
+{
+   font-family: times, helvetica, sans-serif;
+}
+#feedback
+{
+  text-align: center;
+}
+
+#inv
+{
+  text-align: center;
+  border: 2px solid black;
+  width: 300px;
+  margin: 0px auto;
+  padding: 5px 5px 15px 5px;  
+}
+
+#inv_sub
+{
+  width: 600px;
+  margin: 0px auto;
+}
+
+#stats
+{
+  text-align: center;
+  border: 2px solid black;
+  width: 300px;
+  margin: 0px auto;
+  padding: 5px 5px 15px 5px;  
+}
+
+#new
+{
+  border: 2px solid black;
+  padding: 5px;
+  margin: 0px auto;
+  overflow: auto;
+  width: 500px;
+  height: 350px;
+}
+
+#contacts
+{
+  width: 500px;
+  margin: 0px auto;
+  text-align: center;
+}
+
+.vdasTable
+{
+  vertical-align: middle;
+  border: 2px solid #868786;
+  border-collapse: separate;
+  width: 100%;
+}
+
+.tableSubTitle
+{
+  text-align: center;
+  width: 70%;
+  border: 2px solid #868786;
+  padding: 3px;
+  margin: 50px auto 5px auto;
+  background-color: #ecf8ff;
+  font-size: 10pt;
+  font-weight: bold;
+}
+
+.newContact
+{
+  border-top: 4px solid #868786;
+  font-weight: bold;
+}
+
+.seperator
+{
+  border-bottom: 1px solid #fff;
+  height: 11px;
+}
+
+td
+{
+  background-color: #dce8f5;
+}
+
+th
+{
+  background-color: #e2e2e2;
+  color: #666;
+  text-align: center;
+}

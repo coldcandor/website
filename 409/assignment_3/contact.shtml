@@ -1,0 +1,37 @@
+      <!--#include file="header.inc.htm" -->      
+      
+      <script type="text/javascript">
+        <!--
+        function validate() {
+          var proceed = true;
+          
+          if (document.forms[0].name.value == "") {
+            alert("You need to provide your name!");
+            proceed = false;
+          }
+          if (document.forms[0].message.value == "") {
+            alert("You can't send a comment form with no message!");
+            proceed = false;
+          }
+          if (document.forms[0].elements[2].checked == false && document.forms[0].elements[3].checked == false) {
+            alert("You must select who to send the message to!");
+            proceed = false;
+          }
+          return proceed;
+        }
+        //-->
+      </script>
+      
+      <div id="content">
+        Please use the following form to send me a message.  Since this is also a school project, you can send a message to my professor too.  Isn't that exciting?<br />
+        
+        <form action="http://www.rit.edu/~ers3268/cgi-bin/formmail.cgi" onsubmit="return validate()" method="post">
+          <p>Name: <input style="position: relative; left: 21px;" type="text" name="name" value="" /><br />
+          <span style="position: relative; bottom: 90px;">Message: </span><textarea name="message" rows="10" cols="50"></textarea><br />
+          Send the message to:<br />
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Fanatic:<input type="radio" name="recipient" value="ers3268@rit.edu" />
+          The Professor:<input type="radio" name="recipient" value="dsb@it.rit.edu" /><br />
+          <input style="position: relative; left: 260px;" type="submit" value="Submit" /></p>
+        </form>
+      </div>
+      <!--#include file="footer.inc.htm" -->      

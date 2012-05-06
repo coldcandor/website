@@ -1,0 +1,40 @@
+      <!--#include file="header.inc.htm" -->      
+      <div id="content">
+        <p style="text-align: justify">In 2006, Serenity was nominated for 6 awards.  Unfortunaly it did not win any nor was it nominated for any top notch awards, such as presented at the Acedemy awards.  This is extreamly disappointing.  Anyway, here are the awards is was nominated for:</p>
+        
+        <ul>
+          <li>Saturn Awards:
+            <ul>
+              <li>Best Science Fiction Film</li>
+              <li>Best Supporting Actress - Summer Glau</li>
+            </ul>
+          </li>
+        </ul>
+        
+        <ul>
+          <li>Empire Awards:
+            <ul>
+              <li>Best Newcomer - Nathan Fillion</li>
+              <li>Best Sci-Fi/Fantasy</li>
+            </ul>
+          </li>
+        </ul>
+        
+        <ul>
+          <li>Hugo Awards:
+            <ul>
+              <li>Best Dramatic Presentation - Long Form</li>
+            </ul>
+          </li>
+        </ul>
+        
+        <ul>
+          <li>Online Film Critics Society Awards:
+            <ul>
+              <li>Best Breakthrough Preformance - Nathan Fillion</li>
+            </ul>
+          </li>
+        </ul>
+        (courtesy IMDB.com)
+      </div>
+      <!--#include file="footer.inc.htm" -->      

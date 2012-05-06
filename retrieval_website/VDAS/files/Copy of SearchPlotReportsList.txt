@@ -1,0 +1,50 @@
+968~~AS907 0-10K~~Production~~1~~orig~~1~~~~VDAS_PlotReports_AS907 0-10K_20050831_080445.xls
+968~~AS907 0-10K~~Production~~1~~orig~~1~~~~VDAS_PlotReports_AS907 0-10K_20050831_082223.xls
+968~~AS907 0-10K~~Development~~1~~8~~1~~0-10K VDAS,cold Start to Idle~~VDAS_PlotReports_AS907 0-10K_20050831_105036.xls
+968~~AS907 0-10K~~Development~~1~~8~~1~~0-10K VDAS,cold start Idle to max~~VDAS_PlotReports_AS907 0-10K_20050831_105816.xls
+968~~AS907 0-10K~~Development~~1~~8~~1~~0-10K VDAS, start to Idle ~~VDAS_PlotReports_AS907 0-10K_20050831_113520.xls
+968~~AS907 0-10K~~Development~~1~~8~~1~~0-10K VDAS,  Idle to Max~~VDAS_PlotReports_AS907 0-10K_20050831_114101.xls
+968~~AS907~~Development~~900R~~1~~1~~~~VDAS_PlotReports_AS907_20050817_092725.xls
+968~~AS907~~Development~~900R~~8~~1~~post fan bal.~~VDAS_PlotReports_AS907_20050823_094623.xls
+968~~AS907~~Development~~900R~~8~~2~~HP Vib Diagnosis start to idle~~VDAS_PlotReports_AS907_20050823_103223.xls
+968~~AS907~~Development~~900R~~8~~2~~HP Vib Diagnosis idle to max~~VDAS_PlotReports_AS907_20050823_103926.xls
+968~~AS907~~Development~~900R~~8~~3~~HP Vib. Diag. start/idle post 3hr S/D~~VDAS_PlotReports_AS907_20050823_134819.xls
+968~~AS907~~Development~~900R~~8~~3~~HP Vib. Diag. idle/max post 3hr S/D~~VDAS_PlotReports_AS907_20050823_135642.xls
+968~~AS907~~Development~~900R~~8~~3~~HP Vib. Diag. start/idle~~VDAS_PlotReports_AS907_20050823_143548.xls
+968~~AS907~~Development~~900R~~8~~3~~HP Vib. Diag.idle/max~~VDAS_PlotReports_AS907_20050823_144237.xls
+968~~AS907~~Development~~900R~~8~~4~~HP Vib Diag. cold start to idle~~VDAS_PlotReports_AS907_20050824_145208.xls
+968~~AS907~~Development~~900R~~8~~4~~HP Vib Diag. cold start  idle/max~~VDAS_PlotReports_AS907_20050824_150002.xls
+968~~AS907~~Development~~900R~~8~~4~~HP Vib Diag. start/ idle/~~VDAS_PlotReports_AS907_20050824_153658.xls
+968~~AS907~~Development~~900R~~8~~4~~HP Vib Diag. idle/ max~~VDAS_PlotReports_AS907_20050824_154353.xls
+963~~AS907~~Production~~1~~orig~~1~~Gold standard~~VDAS_PlotReports_AS907_20051017_103425.xls
+963~~AS907~~Production~~1~~orig~~1~~Gold standard~~VDAS_PlotReports_AS907_20051017_104033.xls
+965~~AS907~~Development~~900h~~15~~1~~~~VDAS_PlotReports_AS907_20051020_144303.xls
+965~~AS907~~Development~~900h~~15~~1~~~~VDAS_PlotReports_AS907_20051020_145117.xls
+965~~AS907~~Production~~1~~orig~~1~~Gold standard~~VDAS_PlotReports_AS907_20051020_165159.xls
+965~~AS907~~Development~~900h~~15~~1~~~~VDAS_PlotReports_AS907_20051020_170019.xls
+968~~AS907~~Development~~900j~~2~~1~~~~VDAS_PlotReports_AS907_20051025_114157.xls
+965~~AS907~~Development~~900h~~15~~1~~~~VDAS_PlotReports_AS907_20051025_195831.xls
+968~~AS907~~Development~~900j~~3~~1~~w/ golden fan installed~~VDAS_PlotReports_AS907_20051028_091246.xls
+965~~AS907~~Development~~900H~~15~~1~~after cycle 949~~VDAS_PlotReports_AS907_20051031_185725.xls
+965~~AS907~~Development~~900h~~15~~1~~after 1065 cycles~~VDAS_PlotReports_AS907_20051103_073034.xls
+965~~AS907~~Development~~900h~~15~~`1~~after 1065 cycles~~VDAS_PlotReports_AS907_20051103_074152.xls
+965~~AS907~~Development~~900S~~10~~1~~Pre SLD cycles~~VDAS_PlotReports_AS907_20051107_110011.xls
+954~~AS907~~Production~~Default~~orig~~1~~Gold Standards~~VDAS_PlotReports_AS907_20051108_081518.xls
+965~~AS907~~Development~~900S~~10~~1~~Trial Wt. of 1.9 gr~~VDAS_PlotReports_AS907_20051108_191128.xls
+965~~AS907~~Development~~900S~~10~~1~~Trial Wt. of 1.9 gr~~VDAS_PlotReports_AS907_20051108_191548.xls
+954~~AS907~~Production~~Default~~orig~~1~~Gold Standards~~VDAS_PlotReports_AS907_20051109_090635.xls
+965~~AS907~~Development~~900s~~10~~1~~2.3Gs @ 54 Degrees on PT~~VDAS_PlotReports_AS907_20051109_171503.xls
+965~~AS907~~Development~~900S~~10~~1~~~~VDAS_PlotReports_AS907_20051115_125657.xls
+954~~AS907~~Production~~Default~~orig~~1~~Gold Standards~~VDAS_PlotReports_AS907_20051116_104107.xls
+953~~AS907~~Production~~Default~~orig~~1~~Gold Standards~~VDAS_PlotReports_AS907_20051123_100913.xls
+954~~AS907~~Production~~Default~~orig~~1~~Gold Standards~~VDAS_PlotReports_AS907_20051123_111116.xls
+954~~AS907~~Production~~1~~1~~1~~~~VDAS_PlotReports_AS907_20051129_051713.xls
+954~~AS907~~Overhaul~~3456~~orig~~1~~sethstrj~~VDAS_PlotReports_AS907_20051129_054852.xls
+954~~AS907~~Production~~1~~1~~1~~~~VDAS_PlotReports_AS907_20051129_063105.xls
+954~~AS907~~Production~~118294~~orig~~1~~sale vdas ~~VDAS_PlotReports_AS907_20051201_161508.xls
+954~~AS907~~Production~~118294~~orig~~1~~sale vdas ~~VDAS_PlotReports_AS907_20051201_185124.xls
+954~~AS907~~Production~~118294~~orig~~1~~sale vdas ~~VDAS_PlotReports_AS907_20051201_224405.xls
+954~~AS907~~Production~~118294~~orig~~1~~-15 on #3, -10 on #4, -12 on #5, -15 on #6; 14.4G at 159 deg~~VDAS_PlotReports_AS907_20051202_003835.xls
+954~~AS907~~Production~~118294~~orig~~1~~all -1 weights~~VDAS_PlotReports_AS907_20051202_022228.xls
+954~~AS907~~Production~~118294~~orig~~1~~-14 on #5, -9 on #6; 9.7G at 197 deg~~VDAS_PlotReports_AS907_20051202_040943.xls
+954~~AS907~~Production~~118294~~orig~~1~~-9 on #3, -15 on #4, -15 on #5, -15 on #6; 20.2 G at 170 deg~~VDAS_PlotReports_AS907_20051202_050154.xls
