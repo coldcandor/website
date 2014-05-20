@@ -1,5 +1,4 @@
 <?php include('includes/header.php'); ?>
-<script type="text/javascript" src="js/minecraft.js"></script>
 
 		<section id="minecraft" class="content">
 			<p class="instructions">Fill out the form below and click "Enchant!" to see a potential outcome of enchanting that item.  Feel free to reclick as many times as you want!</p>
@@ -29,5 +28,6 @@
 			<div class="outputs"></div>
 		</section>
 
-<script type="text/javascript">CC.Minecraft.init()</script>
+<script src="js/minecraft.js"></script>
+<script>CC.Minecraft.init()</script>
 <?php include('includes/footer.php'); ?>

@@ -4,6 +4,7 @@
 				<li><a href="index.php">Home</a></li>
 				<li><a href="webpages.php">Websites</a></li>
 				<li><a href="minecraft.php">Minecraft</a></li>
+				<li><a href="pizza.php">Pizza Tracker</a></li>
 			</ul>
 		</nav>
 <!--
