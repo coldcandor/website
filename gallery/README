@@ -1,0 +1,1 @@
+Any files added to the subfolder "i" will not be looked at by git.  Anything else will be.
