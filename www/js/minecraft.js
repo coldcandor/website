@@ -1,4 +1,4 @@
-CC.Minecraft = (function () {
+CC.Minecraft = (function ($) {
 	var
 		/* Enchant level modifiers */
 		level_mod = {
@@ -407,26 +407,4 @@ CC.Minecraft = (function () {
 			}
 		}
 	}
-}) ();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}) (CC.$);

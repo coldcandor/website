@@ -12,10 +12,10 @@
 
 		<?php /* Add stylesheet import based on page */ ?>
 
+		<script type="text/javascript" src="js/global.js"></script>
 		<script type="text/javascript" src="js/3rdparty/jquery-1.6.2.min.js"></script>
 		<script type="text/javascript" src="js/3rdparty/jquery-ui-1.8.14.custom.min.js"></script>
 		<script type="text/javascript" src="js/3rdparty/mustache-jquery.js"></script>
-		<script type="text/javascript" src="js/global.js"></script>
 
 		<!-- Add HTML5 compatability in IE < 9 -->
 		<!--[if lt IE 9]>

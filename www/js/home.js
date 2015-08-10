@@ -1,4 +1,4 @@
-CC.Home = (function () {
+CC.Home = (function ($) {
 	var blah;
 
 	return {
@@ -8,4 +8,4 @@ CC.Home = (function () {
 		foo: function () {
 		}
 	}
-}) ();
+}) (CC.$);
